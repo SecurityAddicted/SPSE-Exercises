@@ -1,0 +1,2323 @@
+Listing mirrors.ispros.com.bd
+[Errno 111] Connection refused
+
+Listing ftp.belnet.be
+lrw-r--r--   1 ftp      ftp            28 Jun 17  2009 debian -> mirror/ftp.debian.org/debian
+lrw-r--r--   1 ftp      ftp            31 Jun 17  2009 debian-cd -> mirror/ftp.debian.org/debian-cd
+-rw-r--r--   1 ftp      ftp             0 Mar  4  2010 keepalive.txt
+drwxr-xr-x  97 ftp      ftp          4096 Feb  1 08:33 mirror
+lrw-r--r--   1 ftp      ftp             6 Jun 17  2009 mirrors -> mirror
+drwxr-xr-x   2 ftp      ftp          4096 May 10  2010 packages
+lrw-r--r--   1 ftp      ftp             6 Jun  1  2011 pub -> mirror
+
+Listing mirror.telepoint.bg
+[Errno 111] Connection refused
+
+Listing gd.tuwien.ac.at
+-rwxr-xr-x    1 ftp      ftp         17258 Oct 23  2009 GDSNeu-k.jpg
+lrwxrwxrwx    1 ftp      ftp            12 May 19  2010 X11 -> /gds/hci/X11
+lrwxrwxrwx    1 ftp      ftp            32 Dec 01  2010 apache -> infosys/servers/http/apache/dist
+drwxrwxr-x    3 ftp      ftp          4096 Nov 23  2009 comp
+drwxr-xr-x    5 ftp      ftp          4096 Nov 11  2010 db
+lrwxrwxrwx    1 ftp      ftp            11 Sep 10  2004 dos -> /gds/pc/dos
+drwxr-xr-x    4 ftp      ftp          4096 Mar 31  2010 faqs
+-rwxr-xr-x    1 ftp      ftp          2430 Feb 24  2003 favicon.ico
+lrwxrwxrwx    1 ftp      ftp             1 Sep 10  2004 gds -> .
+drwxrwxrwx   11 ftp      ftp          4096 Feb 08  2006 gnu
+drwxr-xr-x   19 ftp      ftp          4096 Apr 30  2010 graphics
+drwxrwxr-x    8 ftp      ftp          4096 May 19  2010 hci
+drwxrwxr-x   11 ftp      ftp          4096 Jan 07  2010 icon
+drwxr-xr-x   14 ftp      ftp          4096 Apr 30  2010 infosys
+lrwxrwxrwx    1 ftp      ftp            12 Sep 10  2004 kde -> /gds/hci/kde
+drwxrwxr-x   12 ftp      ftp          4096 Nov 29  2009 languages
+-rwxrwxr-x    1 ftp      ftp          1627 Jun 26  2004 legal-terms.html
+lrwxrwxrwx    1 ftp      ftp            16 Sep 10  2004 linux -> /gds/opsys/linux
+drwx------    2 ftp      ftp         16384 Sep 02  2008 lost+found
+-rw-r--r--    1 ftp      ftp      70811832 May 17 02:16 ls-lR.gz
+drwxrwxr-x    6 ftp      ftp          4096 Dec 05  2010 office
+drwxr-xr-x    7 ftp      ftp          4096 Mar 30  2010 opsys
+drwxrwxr-x    5 ftp      ftp          4096 Nov 10  2010 pc
+drwxr-xr-x    3 ftp      ftp          4096 Nov 10  2010 platform
+drwxr-xr-x    3 ftp      ftp          4096 Jan 18  2010 privacy
+-rwxrwxr-x    1 ftp      ftp          1526 Jun 26  2004 privacy-policy.html
+drwxr-xr-x    2 ftp      ftp          4096 Jan 04  2011 pub
+drwxr-xr-x    5 ftp      ftp          4096 Jul 26  2010 publishing
+drwxrwxr-x    4 ftp      ftp          4096 Nov 23  2009 soc
+drwxr-xr-x    3 ftp      ftp          4096 Apr 30  2010 softeng
+drwxrwxr-x   10 ftp      ftp          4096 Nov 23  2009 study
+lrwxrwxrwx    1 ftp      ftp            12 Sep 27  2010 tdf -> ./office/tdf
+lrwxrwxrwx    1 ftp      ftp            31 Nov 30  2009 ubuntu -> /gds/opsys/linux/ubuntu/archive
+drwxrwxr-x   13 ftp      ftp          4096 Mar 09  2004 utils
+lrwxrwxrwx    1 ftp      ftp            20 Jul 27  2010 visual -> /gds/graphics/visual
+-rw-rw-r--    1 ftp      ftp          1032 Mar 03  2004 welcome.txt
+drwxr-xr-x    7 ftp      ftp          4096 Nov 15  2010 windows
+drwxr-xr-x    6 ftp      ftp          4096 Apr 14  2010 wul
+
+Listing ftp.monash.edu.au
+drwxr-xr-x    2 root     system       4096 Nov 10  2008 21
+drwx--x--x   11 root     17           4096 Feb 27  2005 MIRROR
+drwxr-xr-x    2 suesteel system       4096 Apr 19  2002 assets
+d--x--x--x    3 root     system       4096 Sep 02  1994 bin
+drwxr-xr-x    2 root     system       4096 Dec 16  2007 cronscripts
+d--x--x--x    2 root     system       4096 Sep 22  1995 etc
+drwxr-xr-x    2 root     system       4096 May 21  1999 images
+drwxrwx---    2 jwb      system       4096 Apr 13 20:30 jwb_uploads
+drwx------    2 root     system       4096 Mar 05  2009 kbl
+drwx------    2 root     system       4096 Mar 15  2004 lost+found
+drwxr-xr-x   60 root     system       4096 Nov 28  2010 pub
+
+Listing ftp.swin.edu.au
+drwxr-xr-x   4 ftpadm   ftpadm       4096 Aug 31  2008 alpine
+drwxrwsr-x 110 ftpadm   ftpadm       4096 May 10 10:10 apache
+drwxr-xr-x  16 ftpadm   ftpadm       4096 Jan 14 19:13 archlinux
+drwxrwxr-x  32 ftpadm   ftpadm       4096 Mar 13 00:17 centos
+drwxr-xr-x   3 ftpadm   ftpadm         40 Apr 25  2003 cwis
+drwxrwsr-x   9 ftpadm   ftpadm       4096 Dec  2  2010 dell
+drwxrwsr-x   7 ftpadm   ftpadm       4096 May 16 19:29 epel
+drwxr-xr-x   3 ftpadm   ftpadm         18 Aug 31  2007 fedora
+drwxr-xr-x  17 ftpadm   ftpadm       4096 May 17 05:31 freebsd
+drwxr-xr-x   6 ftpadm   ftpadm         72 Mar 28  2011 gentoo
+drwxr-xr-x 162 ftpadm   ftpadm       8192 May 18 09:31 gentoo-portage
+drwxrwxr-x 290 ftpadm   ftpadm       8192 May 15 00:06 gnu
+drwxr-xr-x  22 ftpadm   ftpadm       4096 Jan  1  1970 isc
+drwxr-xr-x   9 ftpadm   ftpadm       4096 Aug 28  2005 knoppix
+drwxr-xr-x   3 ftpadm   ftpadm         75 Aug 29  2008 linux
+drwxr-xr-x   5 ftpadm   ftpadm         47 May 15 23:34 mozilla
+drwxr-xr-x  26 ftpadm   ftpadm       4096 Jun 28  2011 netbsd
+drwxr-xr-x  14 ftpadm   ftpadm       4096 May 17 12:42 openbsd
+drwxr-xr-x   7 ftpadm   ftpadm       4096 Jun 16  2011 pine
+drwxrwxr-x   4 ftpadm   ftpadm         72 Jul  2  2009 proftpd
+drwxr-xr-x   2 ftpadm   ftpadm       8192 May 18 05:55 sanesecurity
+drwxr-xr-x  37 ftpadm   ftpadm       4096 Apr 11 18:23 scientific
+drwxr-xr-x   2 ftpadm   ftpadm      16384 Jan 17  2010 sendmail
+drwxr-xr-x  33 ftpadm   ftpadm       4096 Apr 27  2011 slackware
+
+Listing mirror.overthewire.com.au
+-rwxr-xr-x    1 500      500      104857600 Mar 19 04:43 100MB.bin
+-rwxr-xr-x    1 500      500      10485760 Mar 19 04:42 10MB.bin
+-rwxr-xr-x    1 500      500      524288000 Mar 19 04:45 500MB.bin
+-rwxr-xr-x    1 500      500      52428800 Mar 19 04:43 50MB.bin
+-rwxr-xr-x    1 500      500       5242880 Mar 19 04:42 5MB.bin
+lrwxrwxrwx    1 500      500            10 Apr 10 05:35 debian -> pub/debian
+lrwxrwxrwx    1 500      500            13 Apr 10 07:23 debian-cd -> pub/debian-cd
+lrwxrwxrwx    1 500      500            20 Apr 10 10:36 debian-security -> pub/debian-security/
+-rw-r--r--    1 500      500          1406 Apr 18 02:07 favicon.ico
+drwx------    2 500      500         16384 Apr 30 21:19 lost+found
+drwxr-xr-x   11 500      500          4096 Apr 10 10:32 pub
+lrwxrwxrwx    1 500      500            19 Apr 10 05:36 ubuntu -> pub/ubuntu-archive/
+
+Listing mirror.aarnet.edu.au
+lrwxrwxrwx    1 ftp      ftp            10 Aug 09  2010 debian -> pub/debian
+drwxr-xr-x  115 ftp      ftp          4096 May 09 02:42 pub
+
+Listing fedora.c3sl.ufpr.br
+drwxrwsr-x   10 1006       1006             4096 May 18 04:50 CRAN
+drwxr-xr-x    4 1006       1006             4096 May 17 20:57 MandrivaLinux
+drwxr-xr-x    2 1006       1006             4096 Jul 16  2010 SYS
+drwxr-xr-x    5 1006       1006             4096 May 17 20:40 aptosid
+drwxr-sr-x   19 1006       1006             4096 May 18 07:05 archlinux
+drwxr-xr-x    4 1012       0                4096 Apr 16  2009 biglinux
+drwxr-xr-x   14 1019       1020             4096 May 18 04:23 chakra
+drwxr-xr-x    2 1013       1013            28672 Feb  8 20:08 clamavdb
+lrwxrwxrwx    1 0          0                  19 Feb 10 17:58 debian -> debian-dists/debian
+lrwxrwxrwx    1 0          0                  29 Feb 10 17:35 debian-backports -> debian-dists/debian-backports
+lrwxrwxrwx    1 0          0                  22 May 18  2010 debian-cd -> debian-dists/debian-cd
+drwxr-xr-x    9 0          0                4096 Feb  8 00:45 debian-dists
+lrwxrwxrwx    1 0          0                  30 Feb 10 17:38 debian-multimedia -> debian-dists/debian-multimedia
+lrwxrwxrwx    1 0          0                  28 May 18  2010 debian-security -> debian-dists/debian-security
+lrwxrwxrwx    1 0          0                  28 May 18  2010 debian-volatile -> debian-dists/debian-volatile
+drwxr-xr-x    4 1014       0                4096 Jul 15  2010 demoiselle
+drwxr-xr-x  118 1006       1006             4096 May 18 05:02 eclipse
+drwxr-xr-x    2 1006       1006             4096 May  5  2011 f123
+drwxr-xr-x    3 1004       1004             4096 May 18 06:20 fedora-enchilada
+drwxrwxr-x    3 1004       1004             4096 Jan 20  2011 fedora-spins
+drwxr-xr-x    6 1006       1006             4096 May 18 06:08 gentoo
+drwxr-xr-x    4 0          0                4096 May 17  2010 gnu
+drwxrwsr-x    3 1006       1006             4096 May 18 06:25 grml
+drwxr-xr-x   12 1018       1019             4096 May 18 06:10 kde
+drwxr-xr-x   15 1018       1019             4096 May 18 04:27 kde-applicationdata
+drwxr-xr-x    3 1009       1009             4096 May 19  2010 kernel
+drwxr-xr-x    8 1005       1005             4096 Oct 14  2008 kurumin-ng
+lrwxrwxrwx    1 0          0                  16 Feb  7 18:53 le -> /cache/backup/le
+drwxr-xr-x    5 1015       0                4096 Dec  9  2010 le-tira
+drwxr-xr-x    6 1006       1006             4096 May 18 06:09 mageia
+drwxr-xr-x    4 0          0                4096 Nov 27  2010 mint
+drwxr-xr-x    3 1006       1006             4096 Sep 20  2010 mozilla
+drwxr-xr-x    5 1008       1008             4096 Sep 18  2008 multiterm
+drwxr-xr-x    5 1010       1010             4096 Jun 25  2010 netbeans
+drwxrwxr-x    7 1006       1006             4096 May 18 06:00 openoffice
+drwxrwxr-x    8 1011       1011             4096 May 18 06:21 opensuse
+drwxr-xr-x    7 1006       1006             4096 May 17 19:50 pcbsd
+drwxr-xr-x   12 1006       1006             4096 May 18 04:12 pclinuxos
+drwxrwxr-x    2 0          1006             4096 Dec  7 22:05 poseidonlinux
+lrwxrwxrwx    1 0          0                  10 May 29  2010 pub -> kernel/pub
+lrwxrwxrwx    1 0          0                  19 Feb 10 18:39 releases -> ubuntu-all/releases
+drwxrwxr-x    5 1006       1006             4096 May 18 06:26 sabayon
+drwxr-xr-x   11 1006       1006             4096 May 18 04:25 sagemath
+drwxrwsr-x 3212 1006       1006            69632 May 18 04:45 savannah-nongnu
+drwxrwxr-x   10 1006       1006             4096 May 17 20:40 slitaz
+drwxr-xr-x    3 1006       1006             4096 May 18 06:05 tdf
+drwxr-xr-x    8 1017       1018             4096 May 18 04:37 turnkey
+lrwxrwxrwx    1 0          0                  18 Feb 10 18:39 ubuntu -> ubuntu-all/archive
+drwxr-xr-x    4 0          0                4096 Sep 20  2010 ubuntu-all
+drwxrwxr-x  833 1016       1017            36864 May 18 04:30 wikipedia
+
+Listing mirror.as24220.net
+-rw-r--r--   1 nobody   nobody          0 Mar 31 05:10 favicon.ico
+-rw-r--r--   1 nobody   nobody        171 Jan  6 05:13 FOOTER.html
+drwxr-xr-x   2 nobody   nobody          6 Mar 20 18:26 mcfg
+drwxr-xr-x  35 nobody   nobody       4096 Mar 26 04:06 pub
+
+Listing ftp.iinet.net.au
+-rw-r--r--   1 ftp      ftp       1048576 Sep 23  2003 1mb.dat
+-rw-r--r--   1 ftp      ftp      65535000 Oct  7  2009 2test.out
+-rw-r--r--   1 ftp      ftp      13631488 Mar 17  2004 adsl.test
+-rw-r--r--   1 ftp      ftp      20971520 Apr 22  2005 adsl.test2
+lrwxrwxrwx   1 ftp      ftp            16 Sep 15  2008 debian -> pub/linux/debian
+drwxr-xr-x  14 ftp      ftp            14 Aug 17  2011 download_vault
+lrwxrwxrwx   1 ftp      ftp             9 May 20  2009 games -> pub/games
+lrwxrwxrwx   1 ftp      ftp             9 Sep 15  2008 linux -> pub/linux
+-rw-r--r--   1 ftp      ftp      47795177 May 18 03:19 ls-R.gz
+-rw-r--r--   1 ftp      ftp            18 Sep 16  2009 notfound.html
+drwxr-xr-x  61 ftp      ftp            64 May 18 05:41 pub
+-rw-r--r--   1 ftp      ftp           191 May 19  2006 rsyncd.motd
+-rw-r--r--   1 ftp      ftp      100000000 Sep 25  2008 test100MB.dat
+lrwxrwxrwx   1 ftp      ftp            16 May  2 06:13 test100MB.dat.special -> ../test100MB.dat
+-rw-r--r--   1 ftp      ftp      10000000 Sep 25  2008 test10MB.dat
+lrwxrwxrwx   1 ftp      ftp            25 Oct  1  2009 test10MB_b.dat -> ../speedtest/test10MB.dat
+-rw-r--r--   1 ftp      ftp      500000000 Nov 17  2008 test500MB.dat
+-rw-r--r--   1 ftp      ftp      50000000 Sep 26  2008 test50MB.dat
+-rw-r--r--   1 ftp      ftp           346 Jan 12  2009 welcome.msg
+lrwxrwxrwx   1 ftp      ftp            11 Sep 15  2008 welcome.txt -> welcome.msg
+
+Listing fedora-spins.c3sl.ufpr.br
+drwxrwsr-x   10 1006       1006             4096 May 18 04:50 CRAN
+drwxr-xr-x    4 1006       1006             4096 May 17 20:57 MandrivaLinux
+drwxr-xr-x    2 1006       1006             4096 Jul 16  2010 SYS
+drwxr-xr-x    5 1006       1006             4096 May 17 20:40 aptosid
+drwxr-sr-x   19 1006       1006             4096 May 18 07:05 archlinux
+drwxr-xr-x    4 1012       0                4096 Apr 16  2009 biglinux
+drwxr-xr-x   14 1019       1020             4096 May 18 04:23 chakra
+drwxr-xr-x    2 1013       1013            28672 Feb  8 20:08 clamavdb
+lrwxrwxrwx    1 0          0                  19 Feb 10 17:58 debian -> debian-dists/debian
+lrwxrwxrwx    1 0          0                  29 Feb 10 17:35 debian-backports -> debian-dists/debian-backports
+lrwxrwxrwx    1 0          0                  22 May 18  2010 debian-cd -> debian-dists/debian-cd
+drwxr-xr-x    9 0          0                4096 Feb  8 00:45 debian-dists
+lrwxrwxrwx    1 0          0                  30 Feb 10 17:38 debian-multimedia -> debian-dists/debian-multimedia
+lrwxrwxrwx    1 0          0                  28 May 18  2010 debian-security -> debian-dists/debian-security
+lrwxrwxrwx    1 0          0                  28 May 18  2010 debian-volatile -> debian-dists/debian-volatile
+drwxr-xr-x    4 1014       0                4096 Jul 15  2010 demoiselle
+drwxr-xr-x  118 1006       1006             4096 May 18 05:02 eclipse
+drwxr-xr-x    2 1006       1006             4096 May  5  2011 f123
+drwxr-xr-x    3 1004       1004             4096 May 18 06:20 fedora-enchilada
+drwxrwxr-x    3 1004       1004             4096 Jan 20  2011 fedora-spins
+drwxr-xr-x    6 1006       1006             4096 May 18 06:08 gentoo
+drwxr-xr-x    4 0          0                4096 May 17  2010 gnu
+drwxrwsr-x    3 1006       1006             4096 May 18 06:25 grml
+drwxr-xr-x   12 1018       1019             4096 May 18 06:10 kde
+drwxr-xr-x   15 1018       1019             4096 May 18 04:27 kde-applicationdata
+drwxr-xr-x    3 1009       1009             4096 May 19  2010 kernel
+drwxr-xr-x    8 1005       1005             4096 Oct 14  2008 kurumin-ng
+lrwxrwxrwx    1 0          0                  16 Feb  7 18:53 le -> /cache/backup/le
+drwxr-xr-x    5 1015       0                4096 Dec  9  2010 le-tira
+drwxr-xr-x    6 1006       1006             4096 May 18 06:09 mageia
+drwxr-xr-x    4 0          0                4096 Nov 27  2010 mint
+drwxr-xr-x    3 1006       1006             4096 Sep 20  2010 mozilla
+drwxr-xr-x    5 1008       1008             4096 Sep 18  2008 multiterm
+drwxr-xr-x    5 1010       1010             4096 Jun 25  2010 netbeans
+drwxrwxr-x    7 1006       1006             4096 May 18 06:00 openoffice
+drwxrwxr-x    8 1011       1011             4096 May 18 06:21 opensuse
+drwxr-xr-x    7 1006       1006             4096 May 17 19:50 pcbsd
+drwxr-xr-x   12 1006       1006             4096 May 18 04:12 pclinuxos
+drwxrwxr-x    2 0          1006             4096 Dec  7 22:05 poseidonlinux
+lrwxrwxrwx    1 0          0                  10 May 29  2010 pub -> kernel/pub
+lrwxrwxrwx    1 0          0                  19 Feb 10 18:39 releases -> ubuntu-all/releases
+drwxrwxr-x    5 1006       1006             4096 May 18 06:26 sabayon
+drwxr-xr-x   11 1006       1006             4096 May 18 04:25 sagemath
+drwxrwsr-x 3212 1006       1006            69632 May 18 04:45 savannah-nongnu
+drwxrwxr-x   10 1006       1006             4096 May 17 20:40 slitaz
+drwxr-xr-x    3 1006       1006             4096 May 18 06:05 tdf
+drwxr-xr-x    8 1017       1018             4096 May 18 04:37 turnkey
+lrwxrwxrwx    1 0          0                  18 Feb 10 18:39 ubuntu -> ubuntu-all/archive
+drwxr-xr-x    4 0          0                4096 Sep 20  2010 ubuntu-all
+drwxrwxr-x  833 1016       1017            36864 May 18 04:30 wikipedia
+
+Listing ftp.byfly.by
+-rw-r--r--    1 0        0               0 Apr 19  2010 2ban_me.html
+-rw-r--r--    1 0        0             197 Jan 27  2010 README
+lrwxrwxrwx    1 0        0              18 Jan 27  2010 backports.org -> pub/backports.org/
+drwxr-xr-x    2 0        0              23 May 20  2010 blog
+drwxr-xr-x    9 0        0            4096 Apr 05 12:15 byfly
+lrwxrwxrwx    1 0        0              11 Dec 02  2009 debian -> pub/debian/
+lrwxrwxrwx    1 0        0              21 Sep 15  2010 debian-backports -> pub/debian-backports/
+lrwxrwxrwx    1 0        0              14 Nov 08  2009 debian-cd -> pub/debian-cd/
+lrwxrwxrwx    1 0        0              22 Dec 08  2009 debian-multimedia -> pub/debian-multimedia/
+lrwxrwxrwx    1 0        0              20 Nov 03  2009 debian-security -> pub/debian-security/
+lrwxrwxrwx    1 0        0              20 Nov 03  2009 debian-volatile -> pub/debian-volatile/
+-rw-r--r--    1 0        0               0 Apr 10  2010 for_bots.html,v
+drwxr-xr-x    2 0        0              23 Dec 09  2009 game
+drwxr-xr-x   52 1011     1011         4096 Mar 25 19:41 pub
+lrwxrwxrwx    1 0        0              20 Sep 30  2010 releases -> pub/ubuntu-releases/
+-rw-r--r--    1 0        0              26 Feb 15  2010 robots.txt
+drwxr-xr-x    2 0        0            4096 Mar 05  2011 test
+lrwxrwxrwx    1 0        0              11 Dec 02  2009 ubuntu -> pub/ubuntu/
+drwxr-xr-x    2 0        0              23 Dec 09  2009 windows
+drwxr-xr-x    2 0        0               6 Jan 31  2010 www.FreeBSD.org
+
+Listing mirror.optus.net
+lrwxrwxrwx   1 root     root           18 Aug 18  2011 archlinux -> .mirror2/archlinux
+lrwxrwxrwx   1 mirror   mirror         15 Jun 15  2011 centos -> .mirror1/centos
+lrwxrwxrwx   1 root     root           13 Aug 15  2011 CPAN -> .mirror2/CPAN
+lrwxrwxrwx   1 mirror   mirror         13 Aug 15  2011 crux -> .mirror2/crux
+lrwxrwxrwx   1 mirror   mirror         17 Aug 15  2011 crux-ppc -> .mirror2/crux-ppc
+drwxr-xr-x   8 mirror   mirror       4096 May 18 09:23 debian
+lrwxrwxrwx   1 mirror   mirror         18 Jun 15  2011 debian-cd -> .mirror1/debian-cd
+lrwxrwxrwx   1 root     root           23 May 14 00:22 debian-multimedia -> .mirror1/deb-multimedia
+lrwxrwxrwx   1 root     root           23 May 14 00:22 deb-multimedia -> .mirror1/deb-multimedia
+drwxr-xr-x   8 mirror   mirror       4096 Aug 10  2011 downloads
+lrwxrwxrwx   1 mirror   mirror         21 Jul 10  2011 dragonflybsd -> .mirror1/dragonflybsd
+lrwxrwxrwx   1 root     root           13 Aug 18  2011 epel -> .mirror2/epel
+drwxr-xr-x   3 mirror   mirror       4096 May 17 23:26 fedora
+drwxr-xr-x   7 mirror   mirror       4096 Mar 16  2011 gentoo
+lrwxrwxrwx   1 root     root           12 Aug 16  2011 gnu -> .mirror2/gnu
+lrwxrwxrwx   1 mirror   mirror         18 Jun 15  2011 linuxmint -> .mirror1/linuxmint
+lrwxrwxrwx   1 mirror   mirror         19 Jun 15  2011 opendarwin -> .mirror1/opendarwin
+lrwxrwxrwx   1 root     root           17 Aug 24  2011 opensuse -> .mirror2/opensuse
+lrwxrwxrwx   1 mirror   mirror         15 Jul 15  2011 openvz -> .mirror1/openvz
+drwxr-xr-x   9 mirror   mirror       4096 Apr  3  2010 openwall
+drwxr-xr-x   4 mirror   mirror       4096 Aug 15  2011 pub
+lrwxrwxrwx   1 mirror   mirror         15 Jun 15  2011 redhat -> .mirror1/redhat
+-rw-r--r--   1 mirror   mirror         26 Jul  9  2009 robots.txt
+lrwxrwxrwx   1 root     root           16 Aug 19  2011 sabayon -> .mirror2/sabayon
+lrwxrwxrwx   1 mirror   mirror         19 Jun 15  2011 scientific -> .mirror1/scientific
+lrwxrwxrwx   1 root     root           15 Aug 28  2011 ubuntu -> .mirror2/ubuntu
+lrwxrwxrwx   1 root     root           24 Oct 24  2011 ubuntu-releases -> .mirror2/ubuntu-releases
+lrwxrwxrwx   1 mirror   mirror         13 Aug 15  2011 xbmc -> .mirror2/xbmc
+
+Listing mirror.switch.ch
+lrwxrwxrwx    1 ftp      ftp             8 Apr 19  2008 README -> .message
+drwxr-xr-x    3 ftp      ftp             8 Oct 14  2008 doc
+-rw-rw-r--    1 ftp      ftp      49679136 May 18 04:26 ls-lR.gz
+drwxr-xr-x    2 ftp      ftp           119 Jan 04 13:57 mirror
+drwxr-xr-x    5 ftp      ftp             5 Jul 28  2008 pool
+drwxrwxr-x    3 ftp      ftp            10 Sep 06  2010 pub
+drwxrwxr-x   10 ftp      ftp            11 Mar 21  2004 software
+lrwxrwxrwx    1 ftp      ftp            13 Apr 19  2008 ubuntu -> mirror/ubuntu
+lrwxrwxrwx    1 ftp      ftp            21 Oct 14  2008 ubuntu-cdimage -> mirror/ubuntu-cdimage
+
+Listing ftp.solnet.ch
+drwxr-xr-x   19 1001     1001           19 Apr 19 13:16 mirror
+drwxr-xr-x    7 1001     1001           17 Dec 29  2010 pub
+
+Listing mirror.its.dal.ca
+drwxr-sr-x  16 mirror   mirror       4096 May 18 10:02 archlinux
+drwxrwxr-x  32 mirror   mirror       4096 May 18 05:01 centos
+drwxrwxr-x  12 mirror   mirror       4096 May 18 09:44 cpan
+drwxrwsr-x  10 mirror   mirror       4096 May 17 11:40 cran
+drwxr-xr-x  18 mirror   mirror       4096 May 17 10:34 ctan
+drwxr-xr-x   8 mirror   mirror       4096 May 18 05:07 debian
+drwxr-xr-x   5 mirror   mirror       4096 May 17 06:45 debian-cd
+drwxrwxr-x   7 mirror   mirror       4096 May 17 12:30 debian-multimedia
+lrwxrwxrwx   1 mirror   mirror          9 Jul 17  2010 epel -> pub/epel/
+lrwxrwxrwx   1 mirror   mirror         17 Jul 16  2010 fedora -> pub/fedora/linux/
+drwxr-xr-x   6 mirror   mirror       4096 May 18 09:01 gentoo
+drwxr-xr-x  31 mirror   mirror       4096 May 18 02:45 gutenberg
+drwxr-xr-x   6 mirror   mirror       4096 May 17 13:37 ius
+drwxr-xr-x  13 mirror   mirror       4096 May 18 07:30 kde
+drwxr-xr-x   9 mirror   mirror      12288 May 17 07:45 knoppix
+drwxr-xr-x  11 mirror   mirror       4096 May 18 09:04 mozilla-releases
+drwxr-xr-x   6 mirror   mirror       4096 May 18 06:30 openoffice
+drwxr-xr-x   5 mirror   mirror       4096 May 18 08:00 opensuse
+drwxr-xr-x   4 mirror   mirror       4096 Jul 17  2010 pub
+drwxr-xr-x  33 mirror   mirror       4096 May 18 08:32 slackware
+drwxr-xr-x   6 mirror   mirror       4096 May 18 08:56 ubuntu
+drwxr-xr-x  15 mirror   mirror       4096 May 17 08:45 ubuntu-releases
+drwxr-xr-x  11 mirror   mirror       4096 May 16 05:15 xbmc
+
+Listing mirror.csclub.uwaterloo.ca
+drwxrwxr-x  12 ftp      ftp          4096 May 17 22:31 CPAN
+drwxrwsr-x  10 ftp      ftp          4096 May 17 23:09 CRAN
+drwxr-xr-x  18 ftp      ftp          4096 May 18 08:11 CTAN
+drwxr-xr-x  17 ftp      ftp          4096 May 16 05:15 FreeBSD
+drwxr-xr-x   4 ftp      ftp          4096 Dec 12  2010 MacPorts
+drwxr-xr-x  20 ftp      ftp          4096 Mar 10 18:25 NetBSD
+drwxr-xr-x  13 ftp      ftp          4096 May 17 07:02 OpenBSD
+drwxrwsr-x 110 ftp      ftp          4096 May 10 10:10 apache
+dr-xr-sr-x  16 ftp      ftp          4096 May 18 08:22 archlinux
+drwxr-xr-x   4 ftp      ftp          4096 Sep  1  2011 blastwave
+drwxrwxr-x  32 ftp      ftp          4096 Mar 13 00:17 centos
+drwxrwxr-x   4 ftp      ftp         20480 May 17 19:50 csclub
+drwxrwsr-x   5 ftp      ftp          4096 May 17 22:34 cygwin
+drwxr-xr-x   7 ftp      ftp          4096 Mar  9  2010 damnsmalllinux
+drwxr-xr-x   8 ftp      ftp          4096 May 18 09:49 debian
+drwxrwxr-x   6 ftp      ftp          4096 May 18 09:23 debian-backports
+drwxrwxr-x   5 ftp      ftp          4096 May 18 00:43 debian-cd
+drwxrwxr-x   7 ftp      ftp          4096 May 18 09:13 debian-multimedia
+drwxr-xr-x  18 ftp      ftp          4096 Jan  8 17:46 debian-ports
+drwxrwxr-x   6 ftp      ftp          4096 May 18 08:30 debian-security
+drwxrwxr-x   5 ftp      ftp          4096 May 18 09:19 debian-unofficial
+drwxrwxr-x   5 ftp      ftp          4096 May 18 09:19 debian-volatile
+drwxr-xr-x 118 ftp      ftp          4096 May 14 14:10 eclipse
+drwxr-xr-x   4 ftp      ftp          4096 Jan  8  2011 emdebian
+drwxr-xr-x   4 ftp      ftp          4096 Jul  9  2010 fedora
+drwxr-xr-x   6 ftp      ftp          4096 Mar 28  2011 gentoo-distfiles
+drwxr-xr-x 162 ftp      ftp          4096 May 18 09:01 gentoo-portage
+drwxrwsr-x  14 ftp      ftp          4096 Jul 21  2011 gnome
+drwxrwxr-x 290 ftp      ftp         12288 May 15 00:06 gnu
+drwxrwsr-x  31 ftp      ftp          4096 May 17 10:17 gutenberg
+drwxrwxr-x   2 ftp      ftp          4096 Jan 19  2011 include
+-rw-r--r--   1 ftp      ftp           582 Jul 26  2010 index.css
+-rw-r--r--   1 ftp      ftp         12966 May 15 09:57 index.html
+drwxr-xr-x  13 ftp      ftp          4096 Apr 23 09:52 kde
+drwxrwxr-x   4 ftp      ftp          4096 Jun 12  2008 kernel.org
+drwxr-xr-x   7 ftp      ftp          4096 Sep  4  2010 linuxmint
+drwxrwxr-x  10 ftp      ftp          4096 May 18 09:19 linuxmint-packages
+drwxr-xr-x 1884 ftp      ftp         57344 May 10 18:30 mozdev
+drwxr-xr-x  11 ftp      ftp          4096 May 15 23:34 mozilla.org
+drwxr-sr-x  17 ftp      ftp          4096 Nov  3  2011 mysql
+drwxrwsr-x 3212 ftp      ftp         69632 May 15 20:30 nongnu
+drwxrwxr-x   7 ftp      ftp          4096 Sep 25  2011 openoffice
+drwxr-xr-x   5 ftp      ftp          4096 May  1 12:00 opensuse
+lrwxrwxrwx   1 ftp      ftp             1 Jul  8  2010 pub -> .
+drwxr-xr-x  29 ftp      ftp          4096 May  5 08:03 puppylinux
+drwxr-xr-x   4 ftp      ftp          4096 Aug  5  2010 racket
+drwxr-xr-x   3 ftp      ftp          4096 Apr 22 11:13 raspberrypi
+drwxr-xr-x  53 ftp      ftp          4096 Apr 27  2011 slackware
+-rw-r--r--   1 ftp      ftp           790 Oct 11  2011 stats.html
+-rw-r--r--   1 ftp      ftp           870 Oct 11  2011 stats.html.bak
+-rw-r--r--   1 ftp      ftp         53023 May 18 10:05 stats.png
+-rw-r--r--   1 ftp      ftp        157743 Nov 17  2011 stats.svg
+-rw-r--r--   1 ftp      ftp         52868 Nov 17  2011 stats_monthly.png
+-rw-r--r--   1 ftp      ftp         47194 Nov 17  2011 stats_yearly.png
+drwxr-xr-x  14 ftp      ftp          4096 Mar 28  2011 sunfreeware
+drwxrwxr-x   6 ftp      ftp          4096 May 18 08:39 ubuntu
+drwxr-xr-x   6 ftp      ftp          4096 May 18 09:29 ubuntu-ports
+drwxrwxr-x   5 ftp      ftp          4096 Jul 16  2011 ubuntu-ports-releases
+drwxr-xr-x  15 ftp      ftp          4096 May 18 08:38 ubuntu-releases
+drwxrwxr-x  33 ftp      ftp          4096 Apr 14 22:10 x.org
+drwxr-xr-x   3 ftp      ftp          4096 Oct 26  2010 xiph
+drwxrwxr-x   8 ftp      ftp          4096 Dec  1 12:47 xubuntu-releases
+
+Listing ftp.muug.mb.ca
+-rw-r--r--    1 ftp      ftp          1062 Apr 24  2008 README
+drwxr-xr-x   15 ftp      ftp          4096 Sep 08  2011 mirror
+drwxr-xr-x    9 ftp      ftp          4096 May 13 18:39 pub
+-r--r--r--    1 ftp      ftp           935 Apr 24  2008 welcome.msg
+
+Listing ftp.linux.cz
+drwxr-xr-x   2 ftpadm   ftpadm         24 Feb  1  2011 etc
+drwxr-xr-x   5 ftpadm   ftpadm       4096 Feb  1  2011 http
+drwxr-xr-x   3 ftpadm   ftpadm          0 May 18 10:04 mount
+drwxr-xr-x  23 ftpadm   ftpadm       4096 May 18 04:54 pub
+
+Listing ftp.las.ic.unicamp.br
+drwxrwxr-x   35 ftp      ftp          4096 May 18 09:55 pub
+
+Listing ftp.sh.cvut.cz
+lrwxrwxrwx   1 ftp      ftp            33 Oct 10  2010 10.04 -> ./storage/0/ubuntu-releases/10.04
+lrwxrwxrwx   1 ftp      ftp            33 Oct 10  2010 10.10 -> ./storage/0/ubuntu-releases/10.10
+lrwxrwxrwx   1 ftp      ftp            32 Feb 23  2010 6.06 -> ./storage/0/ubuntu-releases/6.06
+lrwxrwxrwx   1 ftp      ftp            32 Feb 23  2010 8.04 -> ./storage/0/ubuntu-releases/8.04
+lrwxrwxrwx   1 ftp      ftp            32 Feb 23  2010 9.04 -> ./storage/0/ubuntu-releases/9.04
+lrwxrwxrwx   1 ftp      ftp            32 Feb 23  2010 9.10 -> ./storage/0/ubuntu-releases/9.10
+lrwxrwxrwx   1 ftp      ftp            15 Feb 23  2010 avc -> ./storage/0/avc
+lrwxrwxrwx   1 ftp      ftp            15 Sep 22  2010 AVC -> ./storage/0/avc
+drwxr-xr-x   2 ftp      ftp          4096 Nov 26 19:45 CDImage
+lrwxrwxrwx   1 ftp      ftp            18 Feb 23  2010 centos -> ./storage/1/centos
+lrwxrwxrwx   1 ftp      ftp            16 Feb 23  2010 cpan -> ./storage/1/cpan
+lrwxrwxrwx   1 ftp      ftp            34 Feb 23  2010 dapper -> ./storage/0/ubuntu-releases/dapper
+lrwxrwxrwx   1 ftp      ftp            18 Feb 23  2010 debian -> ./storage/1/debian
+lrwxrwxrwx   1 ftp      ftp            28 Feb 23  2010 debian-backports -> ./storage/1/debian-backports
+lrwxrwxrwx   1 ftp      ftp            21 Feb 23  2010 debian-cd -> ./storage/1/debian-cd
+lrwxrwxrwx   1 ftp      ftp            30 Feb 23  2010 debian-multimedia -> ./storage/1/debian-multimedia/
+lrwxrwxrwx   1 ftp      ftp            26 Feb 23  2010 debian-non-US -> ./storage/1/debian-non-US/
+lrwxrwxrwx   1 ftp      ftp            27 Feb 23  2010 debian-security -> ./storage/1/debian-security
+lrwxrwxrwx   1 ftp      ftp            27 Feb 23  2010 debian-volatile -> ./storage/1/debian-volatile
+lrwxrwxrwx   1 ftp      ftp            25 Feb 23  2010 dists -> ./storage/0/ubuntu/dists/
+-rw-r--r--   1 ftp      ftp          3638 Feb 23  2010 favicon.ico
+-rw-r--r--   1 ftp      ftp           611 Feb 23  2010 FOOTER.html
+lrwxrwxrwx   1 ftp      ftp            21 Feb 23  2010 ftpdata2 -> ./storage/0/ftpdata2/
+lrwxrwxrwx   1 ftp      ftp            18 Feb 23  2010 gentoo -> ./storage/1/gentoo
+lrwxrwxrwx   1 ftp      ftp            33 Feb 23  2010 hardy -> ./storage/0/ubuntu-releases/hardy
+-rw-r--r--   1 ftp      ftp           437 Feb 23  2010 HEADER.html
+lrwxrwxrwx   1 ftp      ftp            14 Feb 23  2010 idg -> ./ftpdata2/idg
+lrwxrwxrwx   1 ftp      ftp            19 Feb 23  2010 knoppix -> ./storage/1/knoppix
+lrwxrwxrwx   1 ftp      ftp            36 Feb 23  2010 kubuntu -> ./storage/0/ubuntu-releases/kubuntu/
+-rw-r--r--   1 ftp      ftp          2072 Feb 23  2010 logo.gif
+-rw-r--r--   1 ftp      ftp          1007 Feb 23  2010 logo-sh.gif
+-rw-r--r--   1 ftp      ftp          6207 Feb 23  2010 logo-sh.png
+-rw-r--r--   1 ftp      ftp          1369 Feb 23  2010 logo-vic.gif
+lrwxrwxrwx   1 ftp      ftp            34 Oct 10  2010 lucid -> ./storage/0/ubuntu-releases/lucid/
+lrwxrwxrwx   1 ftp      ftp            37 Oct 10  2010 maverick -> ./storage/0/ubuntu-releases/maverick/
+drwxr-xr-x   2 ftp      ftp          4096 Mar 24 14:46 MIRRORS
+lrwxrwxrwx   1 ftp      ftp            20 Feb 23  2010 mozilla -> ./storage/1/mozilla/
+lrwxrwxrwx   1 ftp      ftp            18 Feb 23  2010 MSDNAA -> ./ftpdata2/MSDNAA/
+lrwxrwxrwx   1 ftp      ftp            18 Feb 23  2010 mysql -> ./storage/1/mysql/
+lrwxrwxrwx   1 ftp      ftp            18 May  6  2010 mysqlDownloads -> ./mysql/Downloads/
+lrwxrwxrwx   1 ftp      ftp            19 Feb 24  2010 netbsd -> ./storage/1/netbsd/
+lrwxrwxrwx   1 ftp      ftp            18 Feb 24  2010 opera -> ./storage/1/opera/
+lrwxrwxrwx   1 ftp      ftp            17 Feb 24  2010 other -> ./ftpdata2/other/
+lrwxrwxrwx   1 ftp      ftp            19 Feb 24  2010 PCWorld -> ./ftpdata2/PCWorld/
+lrwxrwxrwx   1 ftp      ftp            16 Feb 24  2010 php -> ./storage/1/php/
+lrwxrwxrwx   1 ftp      ftp            23 Feb 24  2010 postgresql -> ./storage/1/postgresql/
+lrwxrwxrwx   1 ftp      ftp            17 Feb 24  2010 PSPad -> ./ftpdata2/PSPad/
+drwxr-xr-x   3 ftp      ftp          4096 Mar 24 12:54 pub
+lrwxrwxrwx   1 ftp      ftp            18 Feb 24  2010 putty -> ./storage/1/putty/
+-rw-r--r--   1 ftp      ftp             0 Feb 23  2010 robots.txt
+lrwxrwxrwx   1 ftp      ftp            19 Feb 24  2010 SH_LIGA -> ./ftpdata2/SH_LIGA/
+-rwxr-xr-x   1 ftp      ftp           403 Oct 27  2011 stary-index.html
+drwxr-xr-x   4 ftp      ftp          4096 Feb 23  2010 storage
+-rw-r--r--   1 ftp      ftp           148 Feb 23  2010 style.css
+lrwxrwxrwx   1 ftp      ftp            19 Feb 24  2010 ubuntu -> ./storage/0/ubuntu/
+lrwxrwxrwx   1 ftp      ftp            28 Feb 24  2010 ubuntu-releases -> ./storage/0/ubuntu-releases/
+lrwxrwxrwx   1 ftp      ftp             9 Nov 26 20:50 vim -> ../../vim
+
+Listing mirror.karneval.cz
+drwxr-xr-x   3 ftpadm   ftpadm       4096 Mar  8 16:14 .
+drwxr-xr-x   3 ftpadm   ftpadm       4096 Mar  8 16:14 ..
+-rw-r--r--   1 ftpadm   ftpadm          0 Mar  7 15:24 .message
+-rw-r--r--   1 ftpadm   ftpadm      45766 Mar  7 15:24 README.html
+drwxr-xr-x   5 ftpadm   ftpadm       4096 Mar  8 21:12 pub
+
+Listing sunsite.mff.cuni.cz
+drwxr-xr-x    2 ftp      ftp          4096 Oct 03  2007 GNU
+drwxr-xr-x   26 ftp      ftp          4096 Aug 19  2011 MIRRORS
+drwxr-xr-x    2 ftp      ftp          4096 Oct 03  2007 Network
+drwxr-xr-x    3 ftp      ftp          4096 Feb 17  2008 OS
+drwxr-xr-x    2 ftp      ftp          4096 Oct 03  2007 X11
+drwx--x--x    9 ftp      ftp          4096 Dec 26  2010 private
+drwxr-xr-x    3 ftp      ftp          4096 Dec 03  2007 pub
+
+Listing ftp.halifax.rwth-aachen.de
+lrwxrwxrwx    1 0        0               3 Dec 30  2010 CCC -> ccc
+drwxrwsr-x  110 10000    10000        4096 May 10 12:10 apache
+drwxr-sr-x   17 10000    10000        4096 May 18 10:18 archlinux
+drwxr-xr-x    2 10000    10000        4096 May 18 08:10 backtrack
+drwxr-xr-x    6 10000    10000       12288 May 18 09:15 blender
+drwxr-xr-x    4 10000    10000        4096 Dec 28 17:48 ccc
+drwxrwxr-x   32 10000    10000        4096 Mar 13 02:17 centos
+drwxrwxr-x   14 10000    10000        4096 May 18 10:54 chakra
+drwxr-xr-x    8 10000    10000        4096 May 18 11:25 debian
+drwxrwxr-x    6 10000    10000        4096 May 18 11:36 debian-backports
+drwxr-xr-x    5 10000    10000        4096 May 13 14:16 debian-cd
+drwxr-sr-x    5 10000    10000        4096 Mar 01 14:39 debian-volatile
+drwxr-xr-x    5 10000    10000        1024 May 26  2010 dragonflybsd
+drwxr-xr-x  118 10000    10000        4096 May 18 09:49 eclipse
+drwxr-xr-x    3 10000    0            4096 May 18 01:26 fedora
+drwxrwsr-x   16 10000    10000        4096 May 18 06:41 fink-bindist
+drwxr-xr-x    4 10000    10000     1245184 May 18 07:36 fink-distfiles
+drwxr-xr-x    8 10000    10000        4096 May 18 06:20 finkinfo
+drwxr-xr-x   17 10000    10000        4096 May 18 09:05 freebsd
+drwxr-xr-x    6 10000    10000        4096 May 18 12:01 gentoo
+drwxr-xr-x  162 10000    10000        4096 May 18 12:03 gentoo-portage
+drwxr-xr-x  320 10000    10000       16384 May 18 08:07 gnu
+drwxrwsr-x    3 10000    10000        4096 May 18 06:20 grml
+drwxr-xr-x    9 10000    10000        4096 Dec 01 21:57 kernel
+lrwxrwxrwx    1 0        0              19 May 27  2010 knoppix -> kernel/dist/knoppix
+lrwxrwxrwx    1 0        0              24 May 27  2010 knoppix-dvd -> kernel/dist/knoppix-dvd/
+drwxr-xr-x   11 10000    10000        4096 May 18 11:58 mozilla
+drwxr-xr-x   18 10000    10000        4096 May 18 12:01 openbsd
+drwxrwxr-x    7 10000    10000        4096 May 10 12:03 openoffice
+drwxr-xr-x    9 10000    10000        4096 May 01 14:00 opensuse
+drwxr-xr-x  118 10000    10000        4096 May 01 23:47 opensuse-buildservice
+drwxrwsr-x    7 10000    10000        4096 May 18 12:03 packman
+drwxr-xr-x    2 10000    10000        4096 May 18 06:25 papuglinux
+drwxr-xr-x    2 0        0            1024 May 31  2010 pub
+drwxr-xr-x   23 10000    10000        4096 Mar 04 22:38 puias
+lrwxrwxrwx    1 0        0              16 Jun 02  2010 scientific -> scientificlinux/
+drwxr-xr-x   36 10000    10000        4096 May 18 10:22 scientificlinux
+drwxr-xr-x    4 10000    10000        1024 May 21  2010 skolelinux
+drwxr-xr-x    3 10000    10000        4096 Mar 21 00:42 tdf
+drwxr-xr-x    2 10000    10000       12288 May 18 06:25 toorox
+drwxr-xr-x    8 10000    10000        4096 May 18 06:25 turnkeylinux
+drwxr-xr-x    6 10000    10000        4096 May 18 08:07 ubuntu
+drwxr-xr-x   15 10000    10000        4096 May 18 08:34 ubuntu-releases
+drwxr-xr-x   28 10000    10000        4096 May 18 08:14 videolan
+
+Listing ftp-stud.hs-esslingen.de
+lrwxrwxrwx    1 0        429            12 Aug 17  2008 Mirrors -> pub/Mirrors/
+lrwxrwxrwx    1 0        429             8 Aug 17  2008 README -> .message
+lrwxrwxrwx    1 0        429            19 Aug 17  2008 atrpms -> pub/Mirrors/atrpms/
+lrwxrwxrwx    1 0        429            16 Aug 17  2008 dag -> pub/Mirrors/dag/
+lrwxrwxrwx    1 0        429            33 Aug 17  2008 debian -> pub/Mirrors/ftp.debian.org/debian
+lrwxrwxrwx    1 0        0              29 Sep 26  2010 debian-backports -> pub/Mirrors/debian-backports/
+lrwxrwxrwx    1 0        429            37 Aug 17  2008 debian-cd -> pub/Mirrors/ftp.debian.org/debian-cd/
+lrwxrwxrwx    1 0        429            42 Aug 17  2008 debian-security -> pub/Mirrors/ftp.debian.org/debian-security
+-rw-r--r--    1 406      75            766 Sep 24  2001 favicon.ico
+-rw-r--r--    1 406      75            220 Dec 23  2002 favicon.png
+drwxr-xr-x    2 406      75           4096 Sep 01  2005 html
+drwxr-s---    9 406      20000        4096 May 18 12:05 info
+-rw-r--r--    1 406      75            410 Apr 26  2007 login.message
+-rw-r--r--    1 406      75             14 Mar 22  2002 login.message2
+drwx------    2 0        0           16384 May 04  2009 lost+found
+drwxr-xr-x   26 0        0            4096 May 10 08:34 pub
+lrwxrwxrwx    1 0        0              22 May 06 17:22 repoforge -> pub/Mirrors/repoforge/
+-rw-r--r--    1 406      75            889 Mar 24  2003 robots.txt
+-rw-r--r--    1 406      75             65 Apr 26  2007 sorry
+lrwxrwxrwx    1 0        429            19 Aug 17  2008 ubuntu -> pub/Mirrors/ubuntu/
+-rw-r--r--    1 406      75            670 Apr 26  2007 welcome.message
+
+Listing fedora.tu-chemnitz.de
+lrwxrwxrwx    1 0        0              11 Oct 21  2011 INDEX -> .SAN0/INDEX
+lrwxrwxrwx    1 0        0              14 Oct 21  2011 incoming -> .SAN0/incoming
+lrwxrwxrwx    1 0        0               9 Oct 21  2011 pub -> .SAN0/pub
+
+Listing ftp.uni-kl.de
+drwxr-xr-x   13 ftp      ftp          4096 May 18 09:47 CCC
+lrwxrwxrwx    1 ftp      ftp            11 Jan 20  2008 MPlayer -> pub/mplayer
+lrwxrwxrwx    1 ftp      ftp            23 Jan 20  2008 backports.org -> pub/linux/backports.org
+lrwxrwxrwx    1 ftp      ftp            16 Jan 20  2008 debian -> pub/linux/debian
+lrwxrwxrwx    1 ftp      ftp            27 Jan 20  2008 debian-multimedia -> pub/linux/debian-multimedia
+lrwxrwxrwx    1 ftp      ftp            25 Jan 20  2008 debian-security -> pub/linux/debian-security
+lrwxrwxrwx    1 ftp      ftp            25 Jan 20  2008 debian-volatile -> pub/linux/debian-volatile
+drwxr-xr-x   14 ftp      ftp          4096 Jan 23  2011 pub
+-rw-r--r--    1 ftp      ftp            68 Mar 16  2004 robots.txt
+-rw-r--r--    1 ftp      ftp      1048576000 Mar 29 08:30 speedtest-1G.bin
+lrwxrwxrwx    1 ftp      ftp            16 Jan 20  2008 ubuntu -> pub/linux/ubuntu
+
+Listing ftp.nrc.ca
+total 112
+-rw-r--r-- 1 0     0 Jul 30  2003 .notar
+-rw-r--r-- 1 0 32143 May 17 11:20 STATUS
+-rw-r--r-- 1 0 60246 May 17 11:20 STATUS.html
+d--x--x--x 2 0  4096 Feb 22 14:30 bin
+d--x--x--x 3 0  4096 Jan  4 17:45 etc
+lrwxrwxrwx 1 0     1 Feb 26  2008 ftp -> .
+d--x--x--x 2 0  4096 Jul  8  2009 lib
+drwxr-xr-x 8 0   115 May 17 11:00 pub
+-rw-r--r-- 1 0   346 Jul 23  2003 welcome.msg
+
+Listing ftp.telmexchile.cl
+lrwxrwxrwx    1 0        0              15 Jan 15  2007 Linux -> pub/Unix/Linux/
+lrwxrwxrwx    1 0        0               8 Jan 16  2007 Unix -> pub/Unix
+drwx------    2 0        0           16384 Jan 12  2007 lost+found
+lrwxrwxrwx    1 0        0              12 Jan 15  2007 pruebas -> pub/pruebas/
+drwxr-xr-x    8 0        0            4096 Jun 01  2009 pub
+
+Listing vesta.informatik.rwth-aachen.de
+drwxr-xr-x    5 ftp      ftp           512 Feb 18  2010 pub
+
+Listing ftp.stw-bonn.de
+lrwxrwxrwx   1 ftp      ftp            10 Aug 28  2006 debian -> pub/debian
+lrwxrwxrwx   1 ftp      ftp            15 Aug 23  2010 froscon -> mirror/froscon/
+lrwxrwxrwx   1 ftp      ftp             4 May 17  2008 mirror -> pub/
+drwxrwxr-x   7 ftp      ftp            88 Oct 26  2011 pub
+-rw-r--r--   1 ftp      ftp            26 May 20  2008 robots.txt
+lrwxrwxrwx   1 ftp      ftp            11 Sep  7  2006 ubuntu -> pub/ubuntu/
+lrwxrwxrwx   1 ftp      ftp            14 Nov  7  2006 ubuntu-cd -> pub/ubuntu-cd/
+
+Listing ftp.uni-koeln.de
+drwxr-xr-x    5 ftp      ftp          2048 Feb 15  2001 adsm
+lrwxr-xr-x    1 ftp      ftp            14 Sep 17  2002 debian -> mirrors/debian
+lrwxr-xr-x    1 ftp      ftp            29 May 19  2008 fedora -> mirrors/fedora/linux/releases
+-rw-r--r--    1 ftp      ftp      27615002 May 16 05:45 files.lst.gz
+drwxr-xr-x    2 ftp      ftp          2048 Apr 11  2011 institute
+-rw-r--r--    1 ftp      ftp      16854160 May 16 05:45 ls-lR.gz
+drwxr-xr-x    4 ftp      ftp          2048 Apr 03  2009 mirrors
+drwxr-xr-x    3 ftp      ftp          2048 May 18  2011 pc
+lrwxr-xr-x    1 ftp      ftp            31 May 19  2008 redhat -> mirrors/redhat.com/redhat/linux
+-rw-rw-r--    1 ftp      ftp           135 May 24  2011 robots.txt
+drwxr-xr-x    4 ftp      ftp          2048 Jan 30 10:17 rrzk
+
+Listing ftp.informatik.uni-frankfurt.de
+drwx------    2 0        0           16384 Feb 08  2011 lost+found
+drwxr-xr-x    9 0        0            4096 Aug 11  2011 pub
+
+Listing mirror.fraunhofer.de
+drwxrwxr-x  12 mirorman mirorman     4096 May 18 04:25 CPAN
+drwxrwsr-x   2 mirorman mirorman  1122304 May 18 03:19 IETF-Internet-Drafts
+drwxr-xr-x  16 mirorman mirorman   167936 Jan 13  2010 RFCs
+drwxr-xr-x   5 mirorman mirorman     4096 Dec  8  2006 archive.download.redhat.com
+drwxr-xr-x   3 mirorman mirorman     4096 Oct 26  2010 archives.fedoraproject.org
+drwxrwxr-x  32 mirorman mirorman     4096 Mar 13 01:17 centos.org
+drwxr-xr-x   4 mirorman mirorman     4096 Jun  6  2007 download.fedora.redhat.com
+lrwxrwxrwx   1 mirorman mirorman       28 Sep 11  2008 download.fedoraproject.org -> ./download.fedora.redhat.com
+drwxr-xr-x   8 mirorman mirorman     4096 Feb 19  2009 fedoraunity.org
+drwxr-xr-x 320 mirorman mirorman    12288 May 17 16:05 ftp.gnu.org
+drwx------   2 root     root        20480 Apr 11 22:50 lost+found
+lrwxrwxrwx   1 mirorman mirorman        1 Jul 11  2008 mirror -> .
+lrwxrwxrwx   1 mirorman mirorman        1 Jul 11  2008 mirrors -> .
+drwxr-xr-x   2 mirorman mirorman     4096 Feb 23  2007 mwforum.org
+lrwxrwxrwx   1 mirorman mirorman        1 Jul 11  2008 packages -> .
+
+Listing ftp.crc.dk
+drwxr-xr-x   13 0        0            4096 Jan 03 01:23 pub
+
+Listing ftp.klid.dk
+drwxr-xr-x    3 500      500            21 Sep 11  2011 OpenO
+lrwxrwxrwx    1 500      500            14 Nov 14  2011 archlinux -> pub4/archlinux
+lrwxrwxrwx    1 500      500            11 Jun 24  2009 centos -> pub3/centos
+lrwxrwxrwx    1 500      500            11 Jun 04  2010 fedora -> pub4/fedora
+lrwxrwxrwx    1 500      500            11 Jun 05  2010 gentoo -> pub2/gentoo
+drwxr-xr-x  166 500      500          8192 May 18 09:01 gentoo-portage
+drwxr-xr-x  320 500      500         12288 May 16 14:05 gnu
+lrwxrwxrwx    1 500      500            11 Sep 25  2011 keldix -> pub4/keldix
+lrwxrwxrwx    1 500      500            12 Sep 25  2011 knoppix -> pub4/knoppix
+lrwxrwxrwx    1 500      500            14 Jul 01  2010 linuxmint -> pub2/linuxmint
+drwxr-xr-x    2 500      500           115 Mar 31  2006 mandrake
+lrwxrwxrwx    1 500      500             8 Apr 11  2008 mandrakelinux -> mandriva
+lrwxrwxrwx    1 500      500            13 Jun 04  2010 mandriva -> pub4/mandriva
+lrwxrwxrwx    1 500      500            14 May 25  2010 neooffice -> pub3/neooffice
+lrwxrwxrwx    1 500      500            15 Mar 05  2011 oo -> pub3/openoffice
+drwxrwxr-x    5 500      500            57 Jan 25 22:52 opensuse
+lrwxrwxrwx    1 500      500            14 Sep 25  2011 pclinuxos -> pub4/pclinuxos
+drwxr-xr-x    2 500      500          4096 Jul 24  2010 polippix
+drwxr-xr-x    9 500      0            4096 Mar 19 08:20 pub2
+drwxr-xr-x    8 500      0              91 Sep 19  2011 pub3
+drwxr-xr-x   10 500      0            4096 Dec 07 22:40 pub4
+lrwxrwxrwx    1 500      500            17 Jan 24 20:56 sabayonlinux -> pub2/sabayonlinux
+lrwxrwxrwx    1 500      500             9 Jun 24  2011 suse -> pub3/suse
+lrwxrwxrwx    1 500      500             8 Nov 14  2011 tdf -> pub4/tdf
+drwxr-xr-x    3 500      500            18 Jun 29  2009 texlive
+drwxrwxr-x    4 500      500          4096 Mar 06 00:41 tinyme
+drwxr-xr-x    6 500      500            85 Dec 04 08:06 ubuntu
+lrwxrwxrwx    1 500      500            14 Mar 19 12:08 ubuntu-cd -> pub2/ubuntu-cd
+drwxr-xr-x   11 500      500           151 May 17 07:00 ubuntu-dvd
+drwxr-xr-x  102 500      500          4096 May 04 22:09 video
+-rw-r--r--    1 500      500           168 May 17  2008 welcome.msg
+
+Listing ftp.rediris.es
+drwxr-xr-x    7 55         55                512 May 18 09:30 .
+drwxr-xr-x    7 55         55                512 May 18 09:30 ..
+-rw-r--r--    1 55         55                189 Mar 27 16:25 .banner
+drwxr-xr-x    8 55         55                 15 May 18 04:49 debian
+d-wx--x--x    2 104        55               4011 May 17 18:29 incoming
+-rw-r--r--    1 55         55           19718144 May 18 12:05 ls-lR
+-rw-r--r--    1 55         55                  3 May 18 09:30 ls-lR.Z
+-rw-r--r--    1 55         55                 26 May 18 09:30 ls-lR.gz
+drwxr-xr-x    2 55         55               3072 Jun 27  2011 mirror
+d--x--x--x   15 104        55                 15 Feb 15 14:08 outgoing
+drwxr-xr-x    2 55         55                512 Feb 24  2010 pub
+drwxr-xr-x   69 55         55                 69 Jun 16  2011 sites
+-rw-r--r--    1 55         55                 86 Jan 18  2010 welcome.msg
+
+Listing mirror.uv.es
+drwx------    2 ftp      ftp         16384 Mar 10  2010 lost+found
+drwxr-xr-x    5 ftp      ftp          4096 May 19  2009 mirror
+drwxr-xr-x    3 ftp      ftp          4096 Apr 18 06:18 pub
+
+Listing ftp.cica.es
+lrwxrwxrwx    1 0        0              20 Jan 28  2009 CentOS -> mirrors/Linux/CentOS
+lrwxrwxrwx    1 0        0              24 Jan 28  2009 Guadalinex -> mirrors/Linux/Guadalinex
+lrwxrwxrwx    1 0        0              27 Jan 28  2009 debian -> mirrors/Linux/debian/debian
+lrwxrwxrwx    1 0        0              30 Jan 28  2009 debian-cd -> mirrors/Linux/debian/debian-cd
+lrwxrwxrwx    1 0        0              36 Jan 28  2009 debian-security -> mirrors/Linux/debian/debian-security
+lrwxrwxrwx    1 0        0              25 Jan 28  2009 epel -> mirrors/Linux/fedora/epel
+lrwxrwxrwx    1 0        0              20 Jan 28  2009 fedora -> mirrors/Linux/fedora
+drwxr-xr-x    9 504      504          4096 Sep 09  2010 mirrors
+drwxr-xr-x    3 0        0            4096 Apr 08  2010 pub
+lrwxrwxrwx    1 0        0              20 Apr 27  2010 ubuntu -> mirrors/Linux/ubuntu
+
+Listing ftp.free.fr
+lrwxrwxrwx    1 ftp      ftp            28 Jun 14  2011 MPlayer -> mirrors/mplayerhq.hu/MPlayer
+drwxr-xr-x    2 ftp      ftp          4096 May 07  2008 awstats
+drwx------    2 ftp      ftp         16384 Mar 08  2006 lost+found
+drwxr-xr-x    3 ftp      ftp          4096 Jan 04 11:44 mirrors
+drwxr-xr-x    2 ftp      ftp          4096 Dec 24  2008 nzb
+drwxr-xr-x   10 ftp      ftp          4096 Nov 23  2009 pub
+drwxr-xr-x    2 ftp      ftp         81920 May 17 22:30 stats
+drwxr-xr-x    2 ftp      ftp          4096 May 18 10:05 tmp
+
+Listing ftp.funet.fi
+-rw-rw-r--    1 108        42              17901 Mar  8  2011 README
+-rw-rw-r--    1 108        200              5524 Aug 24  2000 README.FILETYPES
+-rw-rw-r--    1 50028      42               5120 Nov 20  1996 README.UPLOADER
+drwxr-xr-x    2 0          0                  14 Mar  2  2010 dev
+-rwxr-xr-x    1 0          0                1078 Apr  7  2006 favicon.ico
+drwxr-xr-x    2 0          0                   5 Aug 19  2010 ftp
+drwxr-xr-x   16 0          0                  16 Sep 25  2007 incoming
+drwxrwxr-x    3 50028      200               128 Mar 15 19:15 index
+drwxrwxr-x   45 108        42                 57 Feb  8  2011 pub
+drwxr-xr-t    7 101        7777            20309 May 17 17:43 rfc
+
+Listing mirrors.ircam.fr
+drwxr-xr-x    3 0          0                4096 May 11  2011 .
+drwxr-xr-x    3 0          0                4096 May 11  2011 ..
+-rw-r--r--    1 0          0                  97 May 10  2011 index.html
+drwxr-xr-x   63 0          0                4096 Apr 27 23:36 pub
+
+Listing mirrors.ustc.edu.cn
+drwxr-xr-x  17 ftp      ftp          4096 May 18 09:49 archlinux
+drwxrwxr-x  32 ftp      ftp          4096 Mar 13 00:17 centos
+drwxrwxr-x  12 ftp      ftp          4096 May 18 06:57 CPAN
+drwxrwsr-x  10 ftp      ftp          4096 May 18 06:09 CRAN
+drwxr-xr-x  18 ftp      ftp          4096 May 18 06:02 CTAN
+drwxr-xr-x   8 ftp      ftp          4096 May 18 09:18 debian
+drwxrwsr-x   6 ftp      ftp          4096 May 18 04:23 debian-backports
+drwxr-xr-x   5 ftp      ftp          4096 Feb  9 18:14 debian-cd
+drwxr-xr-x   7 ftp      ftp          4096 May 18 04:25 debian-multimedia
+drwxr-xr-x   6 ftp      ftp          4096 May 18 05:29 debian-security
+drwxr-sr-x   5 ftp      ftp          4096 Aug 17  2011 debian-volatile
+drwxr-xr-x   5 ftp      ftp          4096 Aug 16  2011 fedora
+drwxr-xr-x   6 ftp      ftp          4096 Mar 28  2011 gentoo
+drwxrwxr-x 290 ftp      ftp         12288 May 15 00:06 gnu
+drwxr-sr-x  15 ftp      ftp          4096 Nov 15  2011 linux-kernel
+drwxr-xr-x   9 ftp      ftp          4096 Apr 26 16:29 linuxmint
+drwxr-xr-x   7 ftp      ftp          4096 Sep  4  2010 linuxmint-cd
+drwxr-xr-x   4 ftp      ftp          4096 Feb 11 11:59 progress-linux
+drwxr-xr-x   8 ftp      ftp          4096 Apr 19 06:55 turnkeylinux
+drwxr-xr-x   6 ftp      ftp          4096 May 18 09:32 ubuntu
+
+Listing fedora.univ-nantes.fr
+drwxrwsr-x    5 501      502            70 Mar 16  2006 download.fedoralegacy.org
+drwxr-xr-x    4 552      552            31 Jun 18  2010 download.rpmfusion.org
+drwxr-xr-x    3 0        0              19 Apr 04  2006 fedora.redhat.com
+drwxr-xr-x    6 500      500            76 May 02  2005 ftp.freshrpms.net
+
+Listing ftp.udl.es
+drwxr-xr-x    9 0        0            4096 May 30  2011 pub
+
+Listing fedora.mirrors.ovh.net
+drwxr-xr-x    1 1000     1000           50 May 18 01:26 download.fedora.redhat.com
+lrwxrwxrwx    1 0        0              32 Mar 20 14:56 linux -> download.fedora.redhat.com/linux
+drwxr-xr-x    1 1000     1000           62 Apr 19 08:55 turnkeylinux
+
+Listing mir01.syntis.net
+drwxr-xr-x    2 501      501          4096 Jan 18 08:09 ART
+drwxrwxr-x   32 500      500          4096 Mar 13 00:17 CentOS
+drwxrwsr-x    7 263      263          4096 May 17 20:32 epel
+drwxr-xr-x    3 263      263          4096 May 17 23:26 fedora
+drwxrwxr-x    4 1007     1007         4096 May 17 01:50 repoforge
+
+Listing fr2.rpmfind.net
+d--x--x--x    2 0        0            4096 Jun 25  2003 etc
+drwxr-xr-x   28 500      500          4096 Feb 13 17:25 linux
+drwxr-xr-x    3 0        0            4096 Feb 09 09:23 pub
+-rw-r--r--    1 0        0              28 Apr 20  2001 welcome.msg
+
+Listing ftp.cru.fr
+dr-xr-xr-x    2 14       50           4096 Nov 20  2009 oc
+drwxrwx--x    4 0        20000        4096 Feb 09  2009 outgoing
+drwxr-xr-x   10 0        0            8192 Apr 27 12:34 pub
+drwxr-x---    2 0        0            4096 Apr 27 14:29 renater
+
+Listing ftp.ciril.fr
+drwxr-xr-x   7 root     root         4096 Feb 22 09:38 .
+drwxr-xr-x   7 root     root         4096 Feb 22 09:38 ..
+drwxrwxr-x   2 root     501          4096 Jul 19  2011 PAO
+drwx------   2 root     root        16384 Dec 21  2009 lost+found
+drwx--x--x  11 root     root         4096 Feb 18 16:07 prive
+drwx--x--x   6 root     root         4096 Dec 15  2006 prive_inpl
+drwxr-xr-x  14 root     root         4096 Mar 24 11:26 pub
+
+Listing ftp.proxad.net
+lrwxrwxrwx    1 ftp      ftp            28 Jun 14  2011 MPlayer -> mirrors/mplayerhq.hu/MPlayer
+drwxr-xr-x    2 ftp      ftp          4096 May 07  2008 awstats
+drwx------    2 ftp      ftp         16384 Mar 08  2006 lost+found
+drwxr-xr-x    3 ftp      ftp          4096 Jan 04 11:44 mirrors
+drwxr-xr-x    2 ftp      ftp          4096 Dec 24  2008 nzb
+drwxr-xr-x   10 ftp      ftp          4096 Nov 23  2009 pub
+drwxr-xr-x    2 ftp      ftp         81920 May 17 22:30 stats
+drwxr-xr-x    2 ftp      ftp          4096 May 18 10:06 tmp
+
+Listing ftp.int-evry.fr
+drwxr-xr-x    8 ftp      ftp          4096 May 30  2011 pub
+
+Listing ftp.uni-bayreuth.de
+total 36
+-r-xr-xr--   1 10           306 Sep  6  2000 README
+dr-x--x--x   3 10           512 Jun 14  2005 bin
+dr-xr-xr-x   2 10           512 Sep  1  2000 dev
+drwxr-xr-x   3 10           512 Sep  1  2000 devices
+dr--r--r--   3 10           512 Sep  1  2000 etc
+-rw-r--r--   1 0           3275 Sep 21  2004 index.html
+drwxr-xr-x  20 0           8192 Jan  3 10:44 pub
+dr-xr-xr-x   3 2            512 Sep  1  2000 usr
+
+Listing ftp.lip6.fr
+total 157280
+dr-xr-xr-x   2 0     0          512 Nov 30  2008 etc
+drwxr-xr-x   9 0     0          512 Feb 16  2001 ibp
+drwxr-xr-x  10 606   300        512 Jun 22  2000 jussieu
+drwxr-xr-x   2 0     0          512 Feb 16  2001 liafa
+drwxr-xr-x   5 1003  600        512 Apr  9  2011 lip6
+-rw-r--r--   1 1003  1003  80457860 May 18 09:03 ls-lR.gz
+drwx------   3 1003  1003       512 Aug 16  2009 private
+drwxr-xr-x  46 1003  1003      1024 Apr  7  2011 pub
+
+Listing mirror.bytemark.co.uk
+drwxr-xr-x  16 mirror   mirror       4096 May 15 11:57 archlinux
+lrwxrwxrwx   1 mirror   mirror         16 Sep 13  2010 backports.org -> debian-backports
+drwxr-xr-x   4 mirror   mirror         45 Jan 19 19:59 blastwave
+drwxrwxr-x  32 mirror   mirror       4096 Mar 13 00:17 centos
+drwxrwxr-x  12 mirror   mirror       4096 Apr 15  2011 CPAN
+drwxr-xr-x   8 mirror   mirror       4096 May 18 09:41 debian
+drwxrwxr-x   6 mirror   mirror        121 May 18 09:36 debian-backports
+drwxr-xr-x   8 mirror   mirror       4096 Jan  1  1970 debian-cd
+drwxr-xr-x   3 mirror   mirror         26 Dec 15 14:55 debian-dotdeb
+drwxr-sr-x   5 mirror   mirror         80 Nov  1  2011 debian-volatile
+drwxrwxr-x   5 mirror   mirror         70 Mar  8 20:36 dragonflybsd
+drwxr-xr-x   5 mirror   mirror         62 May 15 03:38 fedora
+drwxrwxr-x   5 mirror   mirror         69 Nov 28 20:09 fedora-secondary
+drwxr-xr-x  16 mirror   mirror       4096 Feb 13 11:38 FreeBSD
+-rw-r--r--   1 root     root     642351104 Feb 15 18:35 FreeBSD-9.0-RELEASE-amd64-disc1.iso
+drwxr-xr-x   6 mirror   mirror         92 Mar 28  2011 gentoo
+drwxr-xr-x 162 mirror   mirror       8192 May 15 13:01 gentoo-portage
+drwxr-xr-x  13 mirror   mirror       4096 May  2 13:22 hp
+drwxr-xr-x   7 mirror   mirror        125 Dec  1 19:57 kernel.org
+drwxr-xr-x  10 mirror   mirror       4096 Feb 29 15:47 misc
+drwxr-xr-x   5 mirror   mirror         72 Jan 19 19:59 mysql
+drwxr-xr-x  43 mirror   mirror       4096 May 15 04:02 OpenBSD
+drwxr-xr-x   2 mirror   mirror         28 Feb 29 18:39 pub
+drwxr-xr-x   3 mirror   mirror         27 Apr 22 11:13 raspberrypi
+-rw-r--r--   1 mirror   mirror         26 Apr 27  2010 robots.txt
+drwxr-xr-x  53 mirror   mirror       4096 Apr 27  2011 slackware
+drwxr-xr-x  10 mirror   mirror        154 Sep 22  2011 sunfreeware
+drwxrwxr-x  24 mirror   mirror       4096 Jan 19 19:59 swsoft-plesk
+drwxr-xr-x   8 mirror   mirror        104 Apr 19 06:55 turnkey
+drwxrwxr-x   6 mirror   mirror        113 May 18 07:12 ubuntu
+drwxr-xr-x  15 mirror   mirror       4096 May 18 09:57 ubuntu-releases
+
+Listing mirrors.vexs.net
+drwxrwxr-x    6 502      502          4096 Mar 07 12:21 pub
+
+Listing ftp.ntua.gr
+-rw-r--r--    1 ftp      ftp      657650501 May 18 02:10 FILELIST
+lrwxrwxrwx    1 ftp      ftp            17 Apr 11  2011 debian -> /pub/linux/debian
+lrwxrwxrwx    1 ftp      ftp            20 Apr 11  2011 debian-cd -> /pub/linux/debian-cd
+lrwxrwxrwx    1 ftp      ftp            26 Apr 11  2011 debian-volatile -> /pub/linux/debian-volatile
+drwxr-xr-x    2 ftp      ftp          4096 Oct 20  2003 etc
+drwx-wx---    6 ftp      ftp         28672 May 17 11:07 incoming
+-rw-r--r--    1 ftp      ftp      119554923 May 18 02:10 ls-lR.Z
+-rw-r--r--    1 ftp      ftp      71089678 May 18 02:11 ls-lR.gz
+drwxr-xr-x    2 ftp      ftp          4096 Jun 30  2010 mirror
+drwxr-xr-x   39 ftp      ftp          4096 Apr 14  2011 pub
+lrwxrwxrwx    1 ftp      ftp            17 Apr 11  2011 ubuntu -> /pub/linux/ubuntu
+
+Listing mirrors.sohu.com
+drwxr-xr-x   12 101      104          4096 Apr 16  2011 CPAN
+drwxr-xr-x    4 101      104            51 Apr 29  2010 FreeBSD
+drwxr-xr-x    8 101      104            72 Jan 08  2011 NetBSD
+drwxr-xr-x   12 101      104           106 May 12  2011 OpenBSD
+drwxr-xr-x    5 101      104            40 Jan 19  2011 RHEL
+drwxr-xr-x    9 101      104          4096 Mar 08 03:00 apache
+drwxr-xr-x   18 101      104          4096 Jan 15 03:13 archlinux
+drwxr-xr-x   32 101      104          4096 Mar 13 08:17 centos
+drwxr-xr-x    5 101      104          4096 Mar 17 02:21 cygwin
+drwxr-xr-x    3 101      104           129 May 18 02:29 dag
+drwxr-xr-x    8 101      104          4096 May 18 18:02 debian
+drwxr-xr-x    6 101      104            93 May 18 12:03 debian-backports
+drwxr-xr-x    5 101      104            82 May 18 12:03 debian-cd
+drwxr-xr-x    7 101      104           137 May 18 12:03 debian-multimedia
+drwxr-xr-x    6 101      104            79 May 18 12:03 debian-security
+drwxr-xr-x    7 101      104            77 May 22  2007 fedora
+drwxr-xr-x    7 101      104          4096 May 17 03:29 fedora-epel
+drwxr-xr-x    6 101      104            72 Mar 29  2011 gentoo
+drwxr-xr-x    6 101      104           118 Oct 17  2009 lfs
+drwxr-xr-x   25 101      104          4096 May 21  2011 mysql
+drwxr-xr-x    2 101      104         24576 Mar 17 03:56 nginx
+drwxr-xr-x    5 101      104            59 Jan 26 06:52 opensuse
+drwxr-xr-x    3 101      104          4096 Apr 28  2011 php
+drwxr-xr-x   79 0        0            4096 Mar 17 05:55 python
+drwxr-xr-x    6 101      104            85 May 18 04:52 ubuntu
+drwxr-xr-x   40 101      104          4096 May 18 04:52 ubuntu-cn
+drwxr-xr-x    8 101      104          4096 May 18 04:52 ubuntu-releases
+
+Listing ftp.cc.uoc.gr
+drwxr-xr-x    8 1001     1001           92 Feb 05  2006 AIX
+drwxr-xr-x    4 1001     1001           26 Apr 18  2003 APIs
+lrwxrwxrwx    1 1001     1001           20 Aug 05  2010 CentOS -> mirrors/linux/centos
+drwxr-xr-x    4 1001     1001           28 Jun 15  2005 HP-UX
+drwxr-xr-x   15 1001     1001         4096 Jan 17  2008 Java
+drwxr-xr-x    4 1001     1001           32 Jan 23  2005 Sparc
+drwxr-xr-x    9 1001     1001           93 Sep 04  2003 TeX
+drwxr-xr-x   16 1001     1001         4096 Apr 17  2003 X11
+drwxr-xr-x    3 1001     1001           80 Apr 17  2003 astro
+drwxr-xr-x    3 1001     1001         4096 Apr 17  2003 benchmarks
+lrwxrwxrwx    1 1001     1001           20 Aug 11  2010 centos -> mirrors/linux/centos
+drwxr-xr-x    4 1001     1001           27 Apr 17  2003 cryptography
+drwxr-xr-x    3 1001     1001           52 Jul 04  2007 databases
+drwxr-xr-x    3 1001     1001           76 Apr 17  2003 drafts
+drwxr-xr-x    2 1001     1001          119 Dec 19  2004 editors
+lrwxrwxrwx    1 1001     1001           21 Jan 25  2011 fedora -> mirrors/linux/fedora/
+-rw-r--r--    1 1001     1001          170 Mar 17  2011 foo.html
+drwxr-xr-x    2 1001     1001          147 Apr 17  2003 games
+drwxr-xr-x    5 1001     1001           46 Apr 17  2003 graphics
+drwxr-xr-x   10 1001     1001         4096 Jun 23  2006 greek
+drwxr-xr-x   12 1001     1001          123 Jan 12  2006 infosystems
+lrwxrwxrwx    1 1001     1001           36 Jul 22  2010 internet-drafts -> mirrors/ftp.ietf.org/internet-drafts
+drwxr-xr-x    3 1001     1001           72 Jun 15  2007 irc
+drwxr-xr-x    3 1001     1001         4096 Apr 17  2003 minix
+drwxr-xr-x   69 1001     1001         4096 Aug 18  2011 mirrors
+drwxr-xr-x    2 1001     1001         4096 Apr 17  2003 misc
+drwxr-xr-x   17 1001     1001         4096 Jul 04  2007 networking
+lrwxrwxrwx    1 1001     1001           26 Aug 05  2010 openoffice.org -> mirrors/ftp.openoffice.org
+drwxr-xr-x    2 1001     1001         4096 Nov 02  2003 postscript
+drwxr-xr-x    6 1001     1001         4096 Jan 11  2006 programming
+drwxrwxr-x    2 1001     1001          127 Jan 18  2011 pub
+drwxr-xr-x    2 1001     1001           91 Aug 11  2004 qbasic
+lrwxrwxrwx    1 1001     1001           24 Jul 22  2010 rfc -> mirrors/ftp.ietf.org/rfc
+drwxr-xr-x    2 1001     1001           30 Apr 17  2003 science
+drwxr-xr-x    2 1001     1001          114 Sep 30  2003 shells
+drwxr-xr-x    3 1001     1001         4096 Jul 21  2004 system
+drwxr-xr-x    2 1001     1001         4096 Apr 17  2003 utils
+drwxr-xr-x    6 1001     1001          113 Sep 14  2004 windows
+
+Listing ftp.otenet.gr
+-rw-r--r--    1 ftp      ftp      14362416 May 13 09:29 FILELIST.gz
+drwxr-xr-x    9 ftp      ftp          4096 Mar 24  2011 pub
+lrwxrwxrwx    1 ftp      ftp            17 May 25  2007 ubuntu -> pub/linux/ubuntu/
+
+Listing ftp.fsn.hu
+total 8
+-rw-r--r--   1 1001  1001  11 Nov 30 12:30 README
+drwxr-xr-x   4 1001  1001   4 Feb 20 06:51 contrib
+lrwxr-xr-x   1 0     1001  30 Nov 30 10:22 debian -> pub/linux/distributions/debian
+drwxr-xr-x  20 1001  1001  21 Jan 23 07:52 pub
+
+Listing mirror01.th.ifl.net
+-rw-r--r--    1 0        0              15 Sep 20  2011 FOOTER.html
+-rw-r--r--    1 0        0            2558 Mar 13 13:39 HEADER.html
+drwxrwxr-x   32 500      500          4096 Mar 13 00:17 centos
+drwxrwsr-x    8 1000     1000         4096 May 17 20:32 epel
+drwxr-xr-x    3 0        0            4096 May 18 03:30 fedora
+drwxrwxr-x    6 537      537          4096 Nov 28 20:09 fedora-secondary
+drwxr-xr-x    2 0        0            4096 Sep 29  2011 images
+drwxr-xr-x   11 1000     1000         4096 May 15 23:34 mozilla-releases
+drwxr-xr-x    6 0        0            4096 May 01 12:00 opensuse
+drwxr-xr-x    2 0        0            4096 Dec 13 12:46 pub
+drwxr-xr-x   15 0        0            4096 May 18 10:00 releases
+drwxr-xr-x    8 500      500          4096 Apr 22 10:21 robocik
+drwxr-xr-x    4 552      552          4096 Apr 19 09:17 rpmfusion
+drwxr-xr-x    3 0        0            4096 Mar 20 22:42 tdf
+drwxr-xr-x    6 0        0            4096 May 18 09:08 ubuntu
+
+Listing ftp.heanet.ie
+lrwxrwxrwx   1 ftp      ftp            29 Jun 13  2011 debian -> mirrors/ftp.debian.org/debian
+lrwxrwxrwx   1 ftp      ftp            39 Jun 13  2011 debian-backports -> mirrors/ftp.debian.org/debian-backports
+lrwxrwxrwx   1 ftp      ftp            32 Jun 13  2011 debian-cd -> mirrors/ftp.debian.org/debian-cd
+drwxr-xr-x 147 ftp      ftp          5822 Mar 12 11:36 disk1
+drwxr-xr-x 147 ftp      ftp          5822 Mar 12 11:36 mirrors
+drwxr-xr-x 147 ftp      ftp          5822 Mar 12 11:36 pub
+
+Listing mirror.isoc.org.il
+drwxr-xr-x   16 ftp      ftp        516096 Jan 14 19:13 archlinux
+drwxrwsr-x    7 ftp      ftp          4096 Aug 15  2011 august-penguin
+drwxr-xr-x    2 ftp      ftp          4096 Sep 10  2007 biditex
+drwxrwxr-x   32 ftp      ftp          4096 Mar 13 00:17 centos
+drwxrwsr-x    5 ftp      ftp          4096 May 17 21:40 cygwin
+drwxr-xr-x    8 ftp      ftp          4096 May 17 21:02 debian
+drwxr-xr-x    4 ftp      ftp          4096 May 13 12:02 debian-cd
+drwxr-xr-x    2 ftp      ftp          4096 Mar 31  2006 ehad
+drwxrwsr-x    5 ftp      ftp          4096 Jul 18  2006 ehad_repositories
+drwxr-xr-x    5 ftp      ftp          4096 May 21  2007 fedora
+drwxr-xr-x    3 ftp      ftp          4096 May 17 19:11 freebsd
+drwxr-xr-x    5 ftp      ftp          4096 Mar 28  2011 gentoo
+drwxr-xr-x  162 ftp      ftp          4096 May 18 09:01 gentoo-portage
+drwxrwsr-x    2 ftp      ftp          4096 Jan 23  2009 gicompris-he
+drwxr-xr-x    2 ftp      ftp          4096 Aug 16  2008 hocr
+drwxr-sr-x    2 ftp      ftp          4096 May 18 07:15 info
+drwxr-xr-x    2 ftp      ftp          4096 Oct 12  2009 isocil
+drwxr-xr-x    2 ftp      ftp          4096 Nov 11  2006 kazit
+drwxr-xr-x    2 ftp      ftp          4096 Jan 10  2005 kinneret
+drwxrwxr-x    3 ftp      ftp          4096 May 11 09:32 kiwix
+drwxr-xr-x    9 ftp      ftp          4096 Sep 20  2011 knoppix
+drwxr-xr-x    3 ftp      ftp          4096 Sep 20  2011 knoppix-dvd
+drwxr-xr-x    3 ftp      ftp          4096 Nov 06  2005 lectures
+drwxr-xr-x    5 ftp      ftp          4096 Jan 08  2007 ltsp
+drwxr-xr-x    4 ftp      ftp          4096 Oct 14  2007 mandriva
+drwxr-xr-x    2 ftp      ftp          4096 Feb 14  2010 movies
+drwxr-xr-x    5 ftp      ftp          4096 May 15 23:34 mozilla
+drwxr-xr-x    2 ftp      ftp          4096 Dec 24  2004 nikud
+drwxrwxr-x    4 ftp      ftp          4096 Sep 25  2011 openoffice.org
+dr-xr-xr-x    9 ftp      ftp          4096 Oct 21  2009 openoffice.org.il
+drwxr-xr-x    5 ftp      ftp          4096 May 01 12:00 opensuse
+lrwxrwxrwx    1 ftp      ftp             1 Jul 25  2010 pub -> .
+lrwxrwxrwx    1 ftp      ftp            15 Jul 20  2009 releases -> ubuntu-releases
+drwxrwsr-x    4 ftp      ftp          4096 Mar 13 09:23 skolelinux
+drwxr-sr-x    2 ftp      ftp          4096 May 09  2010 slackware
+drwxr-xr-x    3 ftp      ftp          4096 Mar 20 22:42 tdf
+drwxr-xr-x    8 ftp      ftp          4096 Apr 19 06:55 turnkeylinux
+drwxr-xr-x    6 ftp      ftp          4096 May 18 08:08 ubuntu
+drwxr-xr-x   15 ftp      ftp          4096 May 18 08:38 ubuntu-releases
+drwxrwsr-x    2 ftp      ftp          4096 Jun 15  2008 zulo
+
+Listing ftp.fedora.is
+drwxr-xr-x    8 517      518          4096 May 18 09:46 debian
+drwxr-xr-x    5 517      518          4096 May 18 06:00 debian-cd
+drwxr-xr-x   16 0        0            4096 Apr 18 06:19 pub
+
+Listing fedora.skyggnir.is
+lrwxrwxrwx    1 0        0              11 Oct 23  2007 centos -> pub/centos/
+lrwxrwxrwx    1 0        0              15 Sep 02  2009 epel -> pub/fedora/epel
+lrwxrwxrwx    1 0        0              16 Sep 02  2009 linux -> pub/fedora/linux
+drwxr-xr-x    4 0        0            4096 Apr 30 17:47 pub
+
+Listing ftp.rhnet.is
+total 1
+drwxr-xr-x   2 root           wheel           512 May 11  2011 .txt
+-rw-r--r--   1 root           wheel          2186 Jan  5 14:22 README
+dr-xr-xr-x   2 root           wheel           512 Apr  8  2003 bin
+drwxr-xr-x   9 debian-mirror  debian-mirror   512 May 18 02:49 debian
+drwxr-xr-x   9 debian-mirror  debian-mirror   512 May 18 02:49 debian-iso
+drwxr-xr-x   9 debian-mirror  debian-mirror   512 May 18 02:49 debian-non-US
+dr-xr-xr-x   2 root           wheel           512 May 13  2007 etc
+drwxr-xr-x  37 root           wheel          1024 Apr 27 20:19 pub
+-rw-r--r--   1 root           wheel            26 Jan 20  2003 robots.txt
+d-wx------   2 ftp            wheel           512 Apr  8  2003 tmp
+drwxr-xr-x   7 root           wheel           512 May 18 06:20 ubuntu
+
+Listing ftp.cuhk.edu.hk
+-rw-r--r--   1 root     root           96 Mar 27  2007 browse_by_http.html
+lrwxrwxrwx   1 root     root            8 Feb 29 02:50 cuhk -> pub/cuhk
+drwx--x--x   2 root     root         4096 Mar 28  2007 etc
+drwxr-xr-x  13 ftpadmin users         720 Oct 10  2011 pub
+
+Listing ftp.iitm.ac.in
+drwxrwxr-x   23 0        0            4096 May 17 04:05 LDP
+drwxrwxr-x    6 0        0            4096 May 17 19:45 OpenOffice
+lrwxrwxrwx    1 0        0              12 Feb 13  2010 centos -> linux/centos
+drwxr-xr-x   10 0        0            4096 May 17 23:57 cran
+drwxrwxr-x    5 0        0            4096 May 17 22:30 cygwin
+lrwxrwxrwx    1 0        0              12 Feb 13  2010 debian -> linux/debian
+lrwxrwxrwx    1 0        0              12 Feb 13  2010 fedora -> linux/fedora
+-rw-rw-r--    1 0        0              29 Jul 18  2008 last-updated-on
+drwxr-xr-x    8 0        0            4096 Nov 02  2009 linux
+drwx------    2 0        0           16384 Feb 13  2010 lost+found
+lrwxrwxrwx    1 0        0              10 Feb 13  2010 openoffice -> OpenOffice
+lrwxrwxrwx    1 0        0              13 Feb 13  2010 pub -> linux/kernel/
+drwxr-xr-x   11 1229     1229         4096 May 18 00:18 sage
+lrwxrwxrwx    1 0        0              10 Feb 13  2010 suse -> linux/suse
+drwxr-xr-x    3 48       48           4096 Mar 20 22:42 tdf
+lrwxrwxrwx    1 0        0              12 Feb 13  2010 ubuntu -> linux/ubuntu
+
+Listing mirror.cse.iitk.ac.in
+drwxr-xr-x   17 1006     1006       516096 May 18 02:56 archlinux
+drwxr-xr-x    8 1005     1005         4096 May 18 04:26 debian
+drwxr-xr-x    9 1005     1005         4096 Apr 23 22:23 debian-archive
+drwxr-xr-x    6 1005     1005         4096 May 17 21:36 debian-backports
+drwxrwsr-x    6 1005     1005         4096 May 17 22:34 debian-security
+drwxrwsr-x    5 1003     1003         4096 Nov 09  2011 fedora
+drwxr-xr-x    5 1003     1003         4096 Oct 26  2010 fedora-archive
+drwxr-xr-x    4 1003     1003         4096 Apr 19 09:17 rpmfusion
+drwxrwsr-x   14 1007     1007         4096 May 14 16:04 toc
+drwxr-xr-x    6 1004     1004         4096 May 18 06:07 ubuntu
+
+Listing mirror.root.lu
+drwxr-xr-x  16 root     root         4096 May 18 07:39 archlinux
+drwxrwxr-x  32 501      501          4096 Mar 13 00:17 centos
+drwxr-xr-x   4 mirror   mirror       4096 Aug 16  2011 debian
+drwxr-xr-x   9 1005     1005         4096 May 18 04:36 fedora
+drwxr-xr-x   7 root     root         4096 Mar  1  2007 gentoo
+drwxr-xr-x 162 root     root         4096 May 18 09:01 gentoo-portage
+drwxr-xr-x   3 mirror   mirror       4096 Mar 20 22:42 libreoffice
+drwxr-xr-x   4 root     root         4096 Nov 15  2011 mint
+drwxr-xr-x  11 mirror   mirror       4096 May 15 23:34 mozilla
+drwxrwsr-x  30 501      501          4096 Oct 21  2011 opera
+drwxr-xr-x   4 root     root         4096 Jul 28  2011 ubuntu
+
+Listing ftp.iij.ad.jp
+drwxr-xr-x   21 ftp      ftp          4096 May 30  2011 pub
+
+Listing ftp.riken.jp
+drwxr-xr-x   5 archive  archive        49 Jun 24  2011 11
+drwxr-xr-x   3 root     root           20 Apr 13 08:44 12
+drwxr-xr-x   3 root     root           23 Jun 24  2011 13
+drwxr-xr-x   3 root     root           19 Jun 24  2011 14
+lrwxrwxrwx   1 archive  archive        11 Aug 24  2010 CTAN -> tex-archive
+drwxr-xr-x  17 archive  archive      4096 May 17 16:13 FreeBSD
+drwxr-xr-x   5 archive  archive        83 Jan 20  2011 GNU
+drwxr-xr-x   3 root     root           16 Dec 27  2010 Lecture
+drwxr-xr-x  40 archive  archive      4096 Apr 12 00:52 Linux
+drwxr-xr-x  20 archive  archive      4096 May 18 00:12 NetBSD
+lrwxrwxrwx   1 root     root           12 Feb  8 04:26 OpenBSD -> ./12/OpenBSD
+drwxr-xr-x   7 archive  archive       110 May 17 21:03 OpenOffice
+drwxr-xr-x   3 archive  archive        24 Sep 26  2008 Sun
+drwxr-xr-x  13 archive  archive      4096 May 17 21:06 X11
+drwxr-xr-x   3 archive  archive       120 Jul 25  2008 cernlib
+drwxr-xr-x  12 archive  archive      4096 May 12 23:10 iris
+drwxr-xr-x   3 archive  archive        17 Jul  7  2008 lang
+drwxr-xr-x   2 archive  archive         6 Aug 13  2010 lost+found
+drwxr-xr-x   5 archive  archive        39 Mar 30  2009 misc
+drwxr-xr-x  12 archive  archive      4096 Jun 23  2011 mozilla
+drwxr-xr-x  18 archive  archive      4096 May 17 17:39 net
+drwxr-xr-x   9 archive  archive       106 Jun 16  2010 pc
+drwxr-xr-x   2 root     root         4096 May 25  2011 pub
+drwxr-xr-x  10 archive  archive      4096 Jan 30  2010 sagemath
+drwxr-xr-x  18 archive  archive      4096 May 17 23:16 tex-archive
+drwxr-xr-x   2 root     root            6 Nov  2  2010 tmp
+-rwxr--r--   1 archive  archive       471 Jul 10  2011 welcome.msg
+-rwxr--r--   1 archive  archive       471 Apr 13 07:15 welcome.msg.nor
+
+Listing ftp.dti.ad.jp
+total 1102136
+drwxrwx---   2 root      operator        512 Sep  2  2008 .snap
+drwx------   3 ftpadmin  ftpadmin        512 Nov 14  2008 .tmp
+dr-xr-xr-x   2 root      ftpadmin        512 Dec 17  2007 etc
+-rw-r--r--   1 ftpadmin  ftpadmin  157667761 May 17 22:08 ls-lR.gz
+-rw-r--r--   1 ftpadmin  ftpadmin  970305536 May 18 10:06 ls-lR.new
+drwxr-xr-x  16 ftpadmin  ftpadmin        512 Mar 12  2010 pub
+
+Listing ftp.linux.edu.lv
+drwxr-xr-x   7 ftp      ftp           512 Sep 19  2008 kursi
+drwxr-xr-x  24 ftp      ftp          1024 Sep  7  2010 mirrors
+drwxr-xr-x  19 ftp      ftp          1024 Dec 13 06:49 pub
+
+Listing ftp.jaist.ac.jp
+lrwxrwxrwx    1 ftp      ftp            16 Aug 30  2010 debian -> pub/Linux/Debian
+lrwxrwxrwx    1 ftp      ftp            26 Sep 12  2010 debian-backports -> pub/Linux/Debian-backports
+lrwxrwxrwx    1 ftp      ftp            19 Feb 03 23:48 debian-cd -> pub/Linux/debian-cd
+drwxr-xr-x   31 ftp      ftp            31 May 01 08:53 pub
+
+Listing mirror.i3d.net
+drwxr-xr-x   20 504      504          4096 May  4 17:25 .
+drwxr-xr-x   20 504      504          4096 May  4 17:25 ..
+drwxr-xr-x   17 1002     1002         4096 May 18 12:00 archlinux
+drwsrwsr-x    8 1000     1000           97 Dec 22 06:30 archserver
+drwxrwxr-x   32 500      500          4096 Mar 13 01:17 centos
+drwxrwxr-x   36 537      537          4096 Apr 20 23:27 centos-vault
+drwxr-xr-x    8 1010     1010         4096 May 18 11:29 debian
+drwxr-xr-x    9 1010     1010         4096 May 13 02:15 debian-archive
+drwxrwxr-x    6 10000    10000          93 May 18 11:36 debian-backports
+drwxr-xr-x    5 1000     1000          138 May 18 12:00 debian-cd
+drwxrwsr-x    9 3000044  3000044      4096 Dec  2  2010 dell
+drwxr-xr-x    3 10000    0              37 May 18 01:26 fedora
+drwxrwsr-x    7 500      450          4096 Feb 19 20:04 fedora-epel
+drwxr-xr-x   17 1009     1010         4096 May 16 07:51 freebsd
+drwxr-xr-x    6 1009     106            72 Mar 28  2011 gentoo
+drwxr-xr-x  162 1009     106          8192 May 18 11:01 gentoo-portage
+drwxr-xr-x    2 504      504            32 Apr  1 17:18 ixgbe
+drwxr-xr-x    6 17       17             85 May 18 07:51 ubuntu
+drwxrwxr-x    8 17       17           4096 Feb 16 19:44 ubuntu-cdimages
+drwxr-xr-x   15 17       17           4096 May 18 11:57 ubuntu-releases
+
+Listing ftp.tudelft.nl
+drwxr-xr-x   14 503      503          4096 Jun 30  2011 pub
+
+Listing ftp.yz.yamagata-u.ac.jp
+lrwxr-xr-x   1 root     wheel          13 Feb 27  2009 CPAN -> pub/lang/cpan
+lrwxr-xr-x   1 root     wheel          23 Feb 27  2009 debian -> pub/linux/debian/debian
+lrwxr-xr-x   1 root     wheel          26 Feb 27  2009 debian-cd -> pub/linux/debian/debian-cd
+lrwxr-xr-x   1 root     wheel          30 Feb 27  2009 debian-non-US -> pub/linux/debian/debian-non-US
+drwxr-xr-x  31 tomohiro wheel        1024 Aug 21  2008 mirror
+drwxr-xr-x   8 tomohiro wheel         512 Apr  4  2011 mirror2
+drwxr-xr-x   7 tomohiro wheel         512 Jun 11  2011 mirror3
+drwxrwxr-x  15 tomohiro wheel         512 Nov 13  2011 mirror4
+drwxr-xr-x  18 tomohiro wheel         512 Nov 12  2011 mirror5
+drwxr-xr-x   7 tomohiro wheel         512 Nov 13  2011 mirror6
+drwxr-xr-x  20 tomohiro wheel         512 Mar  6 08:11 mirror7
+drwxr-xr-x   5 tomohiro wheel         512 Apr 16 11:32 mirror8
+drwxr-xr-x   5 tomohiro wheel         512 Mar  6 08:08 mirror9
+lrwxr-xr-x   1 root     wheel          19 Feb 27  2009 proftpd -> pub/network/proftpd
+drwxr-xr-x  12 tomohiro wheel        1024 Mar  6 08:08 pub
+
+Listing ftp.nluug.nl
+lrwxrwxrwx    1 0        509             1 Nov 08  2007 ftp -> .
+lrwxrwxrwx    1 0        0               3 Oct 12  2007 mirror -> pub
+lrwxrwxrwx    1 0        0              26 Sep 18  2008 pub -> vol/1/.CLUSTER/var_ftp/pub
+lrwxrwxrwx    1 0        0              27 Oct 16  2007 site -> vol/1/.CLUSTER/var_ftp/site
+drwxr-xr-x    7 0        0            4096 Jul 02  2008 vol
+
+Listing ftp.fi-b.unam.mx
+drwxr-xr-x   3 ftp      ftp          4096 Nov 30  2009 fedora
+drwxr-xr-x   4 ftp      ftp          4096 Aug 10  2010 redhat
+
+Listing ftp.kddilabs.jp
+drwxr-xr-x    4 ftp      ftp            67 May 08  2009 000
+drwxr-xr-x    7 ftp      ftp            85 Oct 22  2008 001
+drwxr-xr-x    4 ftp      ftp            48 May 19  2008 010
+drwxr-xr-x   11 ftp      ftp           145 May 19  2008 011
+drwxr-xr-x    5 ftp      ftp            69 May 19  2008 020
+drwxr-xr-x    4 ftp      ftp            48 May 19  2008 021
+drwxr-xr-x    9 ftp      ftp           106 Nov 17  2011 030
+drwxr-xr-x    5 ftp      ftp            66 May 01 09:15 031
+drwxr-xr-x    7 ftp      ftp            82 Jul 12  2011 032
+drwxr-xr-x    4 ftp      ftp            48 Mar 18  2009 033
+drwxr-xr-x   16 ftp      ftp          4096 Nov 17  2011 040
+drwxr-xr-x    4 ftp      ftp            48 May 19  2008 041
+drwxr-xr-x    6 ftp      ftp            71 Sep 27  2010 042
+drwxr-xr-x    5 ftp      ftp            58 Jun 27  2011 043
+drwxr-xr-x    2 ftp      ftp             6 May 15  2008 099
+lrwxrwxrwx    1 ftp      ftp             7 Jun 15  2007 BSD -> 001/BSD
+lrwxrwxrwx    1 ftp      ftp            14 Jun 15  2007 CPAN -> lang/perl/CPAN
+lrwxrwxrwx    1 ftp      ftp             8 Jul 01  2011 CTAN -> 032/ctan
+lrwxrwxrwx    1 ftp      ftp            15 Jun 15  2007 FreeBSD -> 001/BSD/FreeBSD
+lrwxrwxrwx    1 ftp      ftp            27 Oct 22  2008 GNU -> gnusoftware/ftp.gnu.org/gnu
+-rw-rw-r--    1 ftp      ftp          3943 May 14 20:11 HEADER.html
+-rw-rw-r--    1 ftp      ftp          3939 May 14 20:10 HEADER.html~
+lrwxrwxrwx    1 ftp      ftp             8 Apr 18  2008 IPv6 -> 040/IPv6
+lrwxrwxrwx    1 ftp      ftp             9 Apr 18  2008 Japan -> 040/Japan
+lrwxrwxrwx    1 ftp      ftp             8 Apr 18  2008 KDDI -> 040/KDDI
+lrwxrwxrwx    1 ftp      ftp             9 Jun 15  2007 Linux -> 000/Linux
+lrwxrwxrwx    1 ftp      ftp            10 Apr 18  2008 Mobile -> 040/Mobile
+lrwxrwxrwx    1 ftp      ftp            11 Jun 15  2007 Mozilla -> 011/Mozilla
+lrwxrwxrwx    1 ftp      ftp            18 Jun 15  2007 NOT-MAINTAINED -> 020/NOT-MAINTAINED
+lrwxrwxrwx    1 ftp      ftp            14 Jun 15  2007 NetBSD -> 001/BSD/NetBSD
+lrwxrwxrwx    1 ftp      ftp             6 Apr 18  2008 OS -> 030/OS
+lrwxrwxrwx    1 ftp      ftp            15 Jun 15  2007 OpenBSD -> 001/BSD/OpenBSD
+lrwxrwxrwx    1 ftp      ftp            22 Jun 15  2007 OpenSolaris -> Sun/OpenSolaris-Distro
+lrwxrwxrwx    1 ftp      ftp             6 Jun 15  2007 PC -> 001/PC
+lrwxrwxrwx    1 ftp      ftp            16 Jun 15  2007 RFC -> internet-doc/rfc
+lrwxrwxrwx    1 ftp      ftp             7 Nov 17  2011 Sun -> 040/Sun
+lrwxrwxrwx    1 ftp      ftp             7 Jul 01  2011 TeX -> 032/TeX
+lrwxrwxrwx    1 ftp      ftp             8 Apr 18  2008 Unix -> 030/Unix
+lrwxrwxrwx    1 ftp      ftp             3 Jun 15  2007 X -> X11
+lrwxrwxrwx    1 ftp      ftp             7 May 15  2008 X11 -> 040/X11
+lrwxrwxrwx    1 ftp      ftp             8 Jul 01  2011 ctan -> 032/ctan
+lrwxrwxrwx    1 ftp      ftp            12 Jun 15  2007 database -> 011/database
+lrwxrwxrwx    1 ftp      ftp             7 Apr 18  2008 doc -> 040/doc
+lrwxrwxrwx    1 ftp      ftp            13 Jun 15  2007 forest -> 001/PC/forest
+lrwxrwxrwx    1 ftp      ftp            15 Oct 22  2008 gnusoftware -> 040/gnusoftware
+lrwxrwxrwx    1 ftp      ftp            12 Apr 18  2008 graphics -> 040/graphics
+lrwxrwxrwx    1 ftp      ftp             8 Jun 15  2007 inet -> 011/inet
+lrwxrwxrwx    1 ftp      ftp            15 Sep 12  2007 infosystems -> 001/infosystems
+lrwxrwxrwx    1 ftp      ftp            16 Jun 15  2007 internet-doc -> 011/internet-doc
+lrwxrwxrwx    1 ftp      ftp            28 Jun 15  2007 internet-drafts -> internet-doc/internet-drafts
+lrwxrwxrwx    1 ftp      ftp             8 Apr 18  2008 lang -> 040/lang
+lrwxrwxrwx    1 ftp      ftp             7 Apr 18  2008 mac -> 030/mac
+lrwxrwxrwx    1 ftp      ftp             8 Jun 15  2007 mail -> 011/mail
+lrwxrwxrwx    1 ftp      ftp            10 Jul 12  2011 office -> 032/office
+drwxrwxr-x    2 ftp      ftp          4096 Dec 08  2009 pub
+-rw-r--r--    1 ftp      ftp            61 Jan 09  2003 robots.txt
+lrwxrwxrwx    1 ftp      ftp            12 Jun 15  2007 security -> 011/security
+lrwxrwxrwx    1 ftp      ftp            16 Jun 15  2007 simtelnet -> 001/PC/simtelnet
+lrwxrwxrwx    1 ftp      ftp             9 Sep 12  2007 sites -> 001/sites
+lrwxrwxrwx    1 ftp      ftp            23 Jun 15  2007 xemacs -> gnusoftware/agnu/xemacs
+
+Listing alviss.et.tudelft.nl
+-rw-r--r--    2 500      500          2590 Mar 18 01:05 README
+drwx------    2 0        0           16384 May 16  2007 lost+found
+drwxr-xr-x    2 500      500          4096 May 09  2008 misc
+drwx------    2 500      500          4096 Nov 05  2007 private
+drwxr-xr-x    3 500      500          4096 Mar 10 23:59 pub
+
+Listing ftp.uninett.no
+drwxr-xr-x   22 0          0                4096 Nov 10  2011 .
+drwxr-xr-x   22 0          0                4096 Nov 10  2011 ..
+drwxr-xr-x   16 11113      300              4096 May 17 06:31 FreeBSD
+drwxr-xr-x   22 498        1195             4096 Mar 11 08:30 NetBSD
+drwxr-xr-x   15 11113      300              4096 May 17 23:02 OpenBSD
+drwxr-xr-x    2 0          0                4096 Jul  1  2010 bsd
+drwxrwxr-x   32 33339      15859            4096 Mar 13 01:17 centos
+drwxr-xr-x    8 81906      1195             4096 May 18 06:12 debian
+lrwxrwxrwx    1 0          0                  10 Sep 22  2010 debian-cd -> debian-iso
+drwxr-xr-x    5 81906      1195             4096 May 13 13:16 debian-iso
+drwxrwsr-x    4 0          15859            4096 Mar 11 13:40 easypeasy
+drwxrwsr-x    7 158669     15859            4096 Apr  8  2008 fedora
+drwxr-xr-x    7 0          0                4096 Dec 14  2010 linux
+drwx------    2 0          0               16384 Jul  1  2010 lost+found
+drwxr-xr-x    4 33339      15859            4096 Nov 18  2010 mandriva
+drwxr-xr-x    6 33339      15859            4096 May 18 02:02 opensuse
+drwxr-xr-x   22 0          0                4096 Nov 10  2011 pub
+drwxr-xr-x   54 33339      15859            4096 May 18 01:01 slackware
+drwxrwsr-x    4 183119     1195             4096 Sep 22  2011 sun
+drwxr-xr-x    7 183119     1195             4096 May 18 08:06 ubuntu
+drwxrwsr-x   16 183119     1195             4096 May 18 10:57 ubuntu-iso
+drwxr-xr-x    2 0          0                4096 Jul  1  2010 unix
+d-wx-wx--x    2 14         1195             4096 Nov 10  2011 uploads
+-rw-r--r--    1 0          0                 425 Jul  7  2010 welcome.msg
+
+Listing mirrors.nl.eu.kernel.org
+lrwxrwxrwx    1 536      536             4 Nov 03  2005 CPAN -> cpan
+-r--r--r--    1 536      536             0 Apr 20  2009 FOOTER.html
+drwxrwxr-x   23 537      537          4096 May 18 04:05 LDP
+drwxrws---    2 536      536          4096 Apr 13  2011 RCS
+drwxr-sr-x   18 537      537          4096 May 18 10:05 archlinux
+drwxrwxr-x   32 537      537          4096 Mar 13 00:17 centos
+drwxrwxr-x   12 537      537          4096 May 18 06:16 cpan
+drwxr-xr-x    8 400      400          4096 May 18 09:18 debian
+drwxr-xr-x    5 537      537          4096 May 13 12:55 debian-cd
+drwxr-xr-x    7 537      537          4096 May 21  2007 fedora
+drwxr-xr-x    3 537      537          4096 May 17 23:26 fedora-enchilada
+drwxrwsr-x    7 537      537          4096 May 17 20:32 fedora-epel
+drwx------    2 537      537          4096 Jun 12  2010 fedora.old
+drwx------    5 537      537          4096 Jun 12  2010 fedora.us
+drwxr-xr-x    6 537      537          4096 Mar 28  2011 gentoo
+drwxr-xr-x  162 537      537          4096 May 18 09:31 gentoo-portage
+drwxrwxr-x  290 537      537         12288 May 18 09:12 gnu
+lrwxrwxrwx    1 536      536             7 Nov 03  2005 ibiblio -> metalab
+-r--r--r--    1 536      536         11110 Apr 13  2011 index.html
+drwxr-xr-x    9 537      537          4096 Sep 20  2011 knoppix
+drwxr-xr-x    3 537      537          4096 Sep 20  2011 knoppix-dvd
+drwxr-xr-x    6 537      537          4096 Sep 05  2011 mageia
+drwxrwxr-x    3 537      537          4096 Apr 27  2005 mandrake
+lrwxrwxrwx    1 536      536             8 May 20  2009 mandriva -> mandrake
+drwxr-xr-x    8 537      537          4096 Jun 01  2011 meego
+drwxrwxr-x   26 537      537          4096 May 17 10:04 metalab
+drwxr-xr-x    9 537      537          4096 May 01  2005 oldlinux
+drwxr-xr-x    6 537      537          4096 May 01 12:00 opensuse
+drwxr-xr-x    9 537      537          4096 Apr 03  2010 openwall
+lrwxrwxrwx    1 536      536             1 Nov 03  2005 pub -> .
+drwxr-xr-x    3 537      537          4096 Oct 05  2011 redhat
+-r--r--r--    1 536      536            26 Mar 14  2003 robots.txt
+drwxr-xr-x   33 537      537          4096 Apr 27  2011 slackware
+drwxr-xr-x    9 537      537          4096 Dec 10  2008 slackware-iso
+drwxrwsr-x   51 537      537          4096 May 18 08:34 sources.redhat.com
+lrwxrwxrwx    1 536      536            18 Nov 03  2005 sourceware -> sources.redhat.com
+drwxr-xr-x    5 537      537          4096 Mar 03  2010 suse
+drwxr-xr-x    6 537      537          4096 May 18 09:38 ubuntu
+drwxr-xr-x   15 537      537          4096 May 18 08:38 ubuntu-releases
+-r--r--r--    1 536      536          1828 Aug 05  2007 welcome.msg
+drwxr-xr-x   22 537      537          4096 May 08 21:11 yocto
+
+Listing archive.nl.eu.kernel.org
+-r--r--r--    1 536      536             0 Apr 20  2009 FOOTER.html
+drwxrws---    2 536      536          4096 Apr 13  2011 RCS
+drwxr-xr-x    3 537      537          4096 Oct 06  2009 archlinux
+drwxrwxr-x   36 537      537          4096 Apr 20 21:27 centos-vault
+drwxr-xr-x   10 537      537          4096 Apr 23 22:23 debian-archive
+drwxr-xr-x   10 537      537          4096 Mar 26 05:32 debian-ftp
+drwxr-xr-x   15 537      537          4096 Feb 20 20:22 fedora-alt
+drwxr-xr-x    6 537      537          4096 Oct 26  2010 fedora-archive
+drwxrwxr-x    6 537      537          4096 Nov 28 20:09 fedora-secondary
+-r--r--r--    1 536      536          9144 Apr 13  2011 index.html
+drwxr-xr-x    3 537      537          4096 Oct 05  2011 moblin
+drwxr-xr-x    8 537      537          4096 Aug 17  2007 opensuse-archive
+-r--r--r--    1 536      536            26 Mar 14  2003 robots.txt
+drwx------    2 537      537          4096 Sep 20  2011 slackware-archive
+-r--r--r--    1 536      536          1995 Apr 28  2009 welcome.msg
+
+Listing fedora.uib.no
+drwx------    2 0        0           16384 Jun 25  2010 lost+found
+drwxr-xr-x    7 0        0            4096 Apr 18 06:18 pub
+
+Listing ftp.pbone.net
+-rw-r--r--    1 ftp      ftp           394 Apr 05  2009 connect.msg
+-rw-r--r--    1 ftp      ftp      90808722 May 18 06:31 ls-lR.gz
+drwxr-xr-x    2 ftp      ftp         12288 Apr 15 10:44 mirror
+drwxr-xr-x    2 ftp      ftp          4096 Jan 19 20:26 pub
+drwxr-xr-x   42 ftp      ftp          1400 Jan 28  2009 vol1
+drwxr-xr-x    8 ftp      ftp           224 Jan 31  2008 vol10
+drwxr-xr-x    9 ftp      ftp           256 Aug 24  2011 vol11
+drwxr-xr-x   61 ftp      ftp          2120 Mar 14  2009 vol12
+drwxr-xr-x    8 ftp      ftp           216 May 27  2011 vol13
+drwxr-xr-x    6 ftp      ftp           152 Mar 21 23:09 vol14
+drwxr-xr-x    6 ftp      ftp           144 Nov 24 23:41 vol2
+drwxr-xr-x   20 ftp      ftp           664 Nov 25 02:42 vol3
+drwxr-xr-x    7 ftp      ftp           184 Mar 22 00:17 vol4
+drwxr-xr-x   11 ftp      ftp           352 May 25  2011 vol5
+drwxr-xr-x   23 ftp      ftp           736 Mar 14  2010 vol6
+drwxr-xr-x    5 ftp      ftp           128 Jul 02  2011 vol7
+drwxr-xr-x   12 ftp      ftp           352 Apr 15 10:43 vol8
+drwxr-xr-x   14 ftp      ftp           416 Nov 23 23:05 vol9
+-rw-r--r--    1 ftp      ftp            43 Dec 29  2008 welcome.msg
+
+Listing ftp.man.poznan.pl
+drwxr-xr-x   19 ftp      ftp           496 May 28  2007 pub
+drwx-wx--x    2 ftp      ftp         12416 May 09 00:12 upload
+
+Listing ftp.icm.edu.pl
+lrwxrwxrwx    1 0        0              21 Oct 13  2008 debian -> packages/linux-debian
+lrwxrwxrwx    1 0        0              24 Oct 13  2008 debian-cd -> packages/linux-debian-cd
+lrwxrwxrwx    1 500      500            17 Jun 26  2007 incoming -> packages/incoming
+drwx------    2 0        0           16384 Jun 26  2007 lost+found
+-rw-r--r--    1 99       99       308141995 May 13 05:33 ls-lR.gz
+-rw-r--r--    1 99       99       173827416 May 06 05:00 ls-lR.old.xz
+-rw-r--r--    1 99       99       174132592 May 13 05:30 ls-lR.xz
+drwxr-xr-x    3 500      500          4096 Jun 28  2007 mirrors
+drwxr-xr-x    2 0        500         20480 Mar 26 22:01 packages
+lrwxrwxrwx    1 0        0              16 Sep 26  2007 private -> packages/private
+drwxr-xr-x   23 500      500          4096 Nov 02  2011 pub
+lrwxrwxrwx    1 0        0               8 Oct 06  2011 site -> packages
+drwxr-xr-x  248 500      500         12288 Jun 13  2007 sites
+drwxr-xr-x    6 500      500          4096 May 18 08:26 vol
+
+Listing ftp.polytechnic.edu.na
+-rw-r--r--    1 1000     1000         6856 Feb 01  2011 applications.html
+-rw-r--r--    1 1000     1000         4179 Jan 25  2011 games.html
+-rwxr-xr-x    1 1000     1000         9506 Aug 05  2011 index.html
+-rw-r--r--    1 1000     1000         9853 Sep 07  2011 it.html
+-rw-r--r--    1 1000     1000         7869 Jan 04 15:03 linux.html
+-rwxr-xr-x    1 0        0           20836 Aug 13  2010 logo.png
+drwx------    2 0        0           16384 Oct 27  2010 lost+found
+-rw-r--r--    1 1000     1000         6347 Jan 25  2011 maths.html
+-rwxr-xr-x    1 0        0            7714 Aug 13  2010 mirror.html
+-rwxr-xr-x    1 0        0            2421 Aug 13  2010 mm_travel2.css
+drwxr-xr-x   33 0        0            4096 Oct 13  2011 pub
+drwxr-xr-x    2 0        0            4096 Aug 13  2010 pub1
+drwxr-xr-x   30 0        0            4096 Jan 04 15:02 pub2
+drwxr-xr-x   10 0        0            4096 May 05 20:24 pub3
+drwxr-xr-x    4 0        0            4096 Aug 20  2011 pub4
+drwxr-xr-x    4 0        0            4096 Mar 22 11:16 pub5
+drwxr-xr-x    5 0        0            4096 Nov 10  2011 pub6
+drwxr-xr-x    6 0        0            4096 Nov 05  2011 pub7
+drwxr-xr-x    2 0        0            4096 Dec 14 07:22 pub8
+-rw-r--r--    1 1000     1000         6506 Aug 05  2011 websites.html
+
+Listing ftp.wcss.pl
+-rw-r--r--    1 admftp   ftp          1097 Nov 24  2008 README.TXT
+-rw-r--r--    1 admftp   ftp          1097 Nov 24  2008 Welcome.txt
+lrwxrwxrwx    1 root     root           16 Sep 27  2010 debian -> pub/linux/debian
+lrwxrwxrwx    1 root     root           19 Nov 07  2008 debian-cd -> pub/linux/debian-cd
+drwxr-xr-x   11 admftp   ftp            13 Jul 16  2010 pub
+lrwxrwxrwx    1 root     root           16 Nov 08  2008 ubuntu -> pub/linux/ubuntu
+lrwxrwxrwx    1 root     root           25 Nov 08  2008 ubuntu-releases -> pub/linux/ubuntu-releases
+
+Listing ftp.ps.pl
+lrwxrwxrwx    1 ftp      ftp            18 Jan 16 07:54 debian -> ./pub/Linux/debian
+drwxrwxr-x   46 ftp      ftp          4096 Mar 23 21:14 dsk0
+drwxr-xr-x    2 ftp      ftp          4096 Jan 14 14:32 dsk1
+-rw-rw-r--    1 ftp      ftp      239753439 May 18 10:06 ls-lR
+-rw-rw-r--    1 ftp      ftp             0 May 17 22:14 ls-lR.Z
+-rw-rw-r--    1 ftp      ftp      41597503 May 17 22:14 ls-lR.bz2
+-rw-rw-r--    1 ftp      ftp      58851380 May 17 22:10 ls-lR.gz
+drwxr-xr-x    2 ftp      ftp          4096 Oct 31  2011 mirrors
+lrwxrwxrwx    1 ftp      ftp             6 Jul 07  2010 nfs -> ./dsk0
+drwxr-xr-x    5 ftp      ftp          4096 Apr 18 06:18 pub
+-rw-rw-r--    2 ftp      ftp           375 Sep 16  2011 welcome.msg
+
+Listing ftp.astral.ro
+drwxr-xr-x    6 0        0            4096 Oct  5  2010 .
+drwxr-xr-x    6 0        0            4096 Oct  5  2010 ..
+drwxr-xr-x    2 0        0            4096 May 15  2011 distros
+drwxr-xr-x    2 0        0            4096 Apr 26 11:16 mirrors
+drwxr-xr-x    2 0        0            4096 Apr 29  2008 pub
+drwxr-xr-x    2 0        0            4096 Aug 11  2009 traffic
+-rw-r--r--    1 0        0            1334 Apr 26  2009 traffic.html
+
+Listing ftp.up.pt
+drwxr-xr-x    8 ftp      ftp           113 Apr 30 17:47 pub
+
+Listing ftp.roedu.net
+lrwxrwxrwx    1 ftp      ftp            33 Aug 02  2009 debian -> pub/mirrors/ftp.debian.org/debian
+lrwxrwxrwx    1 ftp      ftp            37 Aug 02  2009 debian-cd -> pub/mirrors/ftp.debian.org/debian-cd/
+drwx-wx-wx    5 ftp      ftp          4096 May 14 18:43 incoming
+drwxr-xr-x    2 ftp      ftp          4096 Apr 22  2010 lost+found
+lrwxrwxrwx    1 ftp      ftp            12 Jul 24  2009 mirrors -> pub/mirrors/
+drwxr-xr-x    7 ftp      ftp          4096 Jul 24  2009 pub
+
+Listing ftp.dei.uc.pt
+drwxr-xr-x   11 0        0            4096 Mar 10  2011 pub
+
+Listing lnx.apollo-hw.ro
+530 Login incorrect.
+
+Listing mirror.pmf.kg.ac.rs
+-rw-r--r--    1 1002       1002             1147 Apr 20 08:55 HEADER.html
+drwxr-xr-x   16 1002       1002             4096 May 18 08:58 archlinux
+drwxr-xr-x    8 1002       1002             4096 May 18 11:34 debian
+drwxr-xr-x    5 1002       1002             4096 May 18 12:04 debian-cd
+drwxr-xr-x    4 1002       1002             4096 Dec 31 13:55 fedora
+drwxr-xr-x    5 1002       1002             4096 Apr 20 08:47 mint
+lrwxrwxrwx    1 0          0                  16 Mar  9 14:48 moodle -> /var/www/moodle/
+drwxr-xr-x    2 1002       1002             4096 Apr 20 08:54 web_res
+
+Listing ftp.gts.lug.ro
+drwxrwxr-x   12 1001     1001         4096 May 18 08:11 CPAN
+drwxrwxr-x   23 1001     1001         4096 May 18 08:11 LDP
+-rw-r--r--    1 0        0             220 Aug 28  2009 README
+drwxr-xr-x    8 1001     1002         4096 May 18 02:23 debian
+drwxr-xr-x    8 1001     1001         4096 May 18 02:23 debian-backports
+drwxr-xr-x    6 1001     1001         4096 May 18 02:23 debian-cd
+drwxr-sr-x    2 1001     1001         4096 Feb 11  2010 debian-security
+drwxr-xr-x    3 1001     1001         4096 Aug 12  2005 fedora
+drwxrwsr-x    3 1001     1001         4096 May 17 23:12 kernel
+drwxrwsr-x    4 1001     1001         4096 May 18 05:41 knoppix
+drwxr-xr-x    0 1001     1002            0 Aug 23  2010 mandriva
+drwxr-xr-x    2 1001     1002         4096 Dec 30  2010 opensuse
+drwxrwsr-x    7 1001     1002         4096 May 17 22:03 packman
+drwxrwxr-x    4 1001     1002         4096 May 17 22:41 plf
+drwxr-sr-x    2 0        65534        4096 Nov 10  2009 santa2
+drwxr-xr-x   19 1001     1002         4096 May 17 21:16 slackware
+
+Listing mirror.xnet.co.nz
+drwxr-xr-x  11 ftp      ftp          4096 May 11 04:02 pub
+
+Listing mirror.xfes.ru
+[Errno 111] Connection refused
+
+Listing ucmirror.canterbury.ac.nz
+drwxr-xr-x    8 505      505          4096 Mar 28  2011 pub
+lrwxrwxrwx    1 505      505            16 Nov 27  2009 releases -> pub/linux/ubuntu
+lrwxrwxrwx    1 505      505            16 Oct 29  2009 ubuntu -> pub/linux/ubuntu
+
+Listing fedora-mirror01.rbc.ru
+-rw-r--r--    1 0        0            1164 May 11 14:45 index.html
+drwxr-xr-x   10 0        0            4096 May 12 03:33 pub
+
+Listing ftp.sunet.se
+-rw-r--r--    1 1137       1100       1412412510 May 18 10:28 ls-lR
+-rw-r--r--    1 1137       1100        191757677 May 18 10:30 ls-lR.gz
+drwxrwxr-x   43 1137       1100            32768 May 10  2011 pub
+
+Listing ftp.rhd.ru
+drwxr-xr-x    6 ftp      ftp          4096 Mar 04  2011 pub
+
+Listing ftp.df.lth.se
+lrwxrwxrwx    1 1001     1001           10 Sep 24  2011 debian -> pub/debian
+lrwxrwxrwx    1 0        0              18 Jan 26 21:32 debian-archive -> pub/debian-archive
+lrwxrwxrwx    1 0        0              20 Jan 26 20:43 debian-backports -> pub/debian-backports
+lrwxrwxrwx    1 1001     1001           14 Sep 24  2011 debian-cd -> pub/debian-iso
+-rw-r--r--    1 0        0           10421 Jan 26 20:52 index.html
+lrwxrwxrwx    1 0        0              11 Sep 23  2011 mozilla -> pub/mozilla
+drwxr-xr-x   50 1001     1001         4096 May 17 15:35 pub
+lrwxrwxrwx    1 1001     1001           10 Sep 24  2011 ubuntu -> pub/ubuntu
+lrwxrwxrwx    1 0        0              14 Sep 24  2011 ubuntu-iso -> pub/ubuntu-iso
+drwxr-xr-x    2 0        0              59 Sep 24  2011 www-data
+
+Listing mirrors.isu.net.sa
+lrwxrwxrwx    1 14       50             18 Nov 28  2010 debian -> pub/ftp.debian.org
+drwxr-xr-x    9 14       50           4096 Nov 07  2010 ftp.debian.org
+drwxr-xr-x    3 0        0            4096 Nov 27  2010 images
+-rw-r--r--    1 0        0            7720 Apr 16  2011 index.html
+-rw-r--r--    1 0        0            6826 Mar 13  2011 index.html.backup
+drwx------    2 0        0           16384 Nov 06  2010 lost+found
+drwxr-xr-x   24 0        0            4096 Mar 17 11:32 pub
+lrwxrwxrwx    1 0        0              23 Nov 28  2010 releases -> pub/releases.ubuntu.com
+lrwxrwxrwx    1 0        0              23 Nov 28  2010 releases.ubuntu.com -> pub/releases.ubuntu.com
+drwxr-x---    2 1056     1058         4096 May 15 09:30 test
+lrwxrwxrwx    1 0        0              22 Nov 28  2010 ubuntu -> pub/archive.ubuntu.com
+
+Listing mirror.nsc.liu.se
+lrwxrwxrwx    1 ftp      ftp             6 Feb 27  2009 CentOS -> centos
+drwxrwxr-x   32 ftp      ftp          4096 May 18 06:26 centos
+drwxrwxr-x    6 ftp      ftp            68 Oct 05  2011 centos-debuginfo
+drwxrwxr-x   37 ftp      ftp          4096 Apr 20 21:27 centos-store
+-rw-rw-r--    5 ftp      ftp          3638 Dec 17  2004 favicon.ico
+drwxrwsr-x    7 ftp      ftp          4096 May 17 20:32 fedora-epel
+-rw-r--r--    1 ftp      ftp            25 Jul 16  2007 robots.txt
+
+Listing mirror.yandex.ru
+drwxr-xr-x   14 ftp      ftp          4096 Mar 14 08:02 altlinux
+drwxr-sr-x   18 ftp      ftp          4096 Mar 14 08:03 altlinux-beta
+drwxr-xr-x   17 ftp      ftp          4096 Jan 14 19:13 archlinux
+drwxrwsr-x    6 ftp      ftp          4096 Mar 29  2010 asplinux
+drwxr-sr-x    6 ftp      ftp          4096 Sep 17  2007 asplinux-tigro
+drwxrwsr-x    6 ftp      ftp          4096 May 18 08:37 backports.org
+drwxr-xr-x   33 ftp      ftp          4096 Mar 13 08:40 calculate
+drwxrwxr-x   32 ftp      ftp          4096 Mar 13 00:17 centos
+drwxr-xr-x    8 ftp      ftp          4096 May 18 09:42 debian
+drwxrwsr-x    6 ftp      ftp          4096 May 18 08:37 debian-backports
+drwxr-xr-x    5 ftp      ftp          4096 May 13 12:16 debian-cd
+drwxrwxr-x    6 ftp      ftp          4096 May 12 08:59 debian-multimedia
+drwxr-xr-x    6 ftp      ftp          4096 Jan 13 04:02 debian-opera
+drwxr-xr-x    6 ftp      ftp          4096 Jan 13 04:02 debian-opera-beta
+drwxr-sr-x    8 ftp      ftp          4096 Feb 04  2008 debian-pure64
+drwxr-xr-x    6 ftp      ftp          4096 May 17 22:58 debian-security
+drwxr-sr-x    5 ftp      ftp          4096 Mar 01 12:39 debian-volatile
+drwxrwsr-x    7 ftp      ftp          4096 May 17 20:32 epel
+drwxr-xr-x    9 ftp      ftp          4096 May 17 23:26 fedora
+drwxr-xr-x    2 ftp      ftp          4096 Jul 27  2009 freebsd
+drwxr-xr-x    6 ftp      ftp          4096 Mar 28  2011 gentoo-distfiles
+drwxrwxrwt  162 ftp      ftp          4096 May 08 22:30 gentoo-portage
+drwxr-xr-x    2 ftp      ftp          4096 Dec 28 15:27 index
+drwxr-xr-x    6 ftp      ftp          4096 May 18 06:11 kernel.org
+drwxr-xr-x   10 ftp      ftp          4096 Sep 20  2011 knoppix
+drwxr-xr-x    7 ftp      ftp          4096 May 18 08:30 libreoffice
+drwxr-xr-x    6 ftp      ftp          4096 Apr 13  2009 linux-xp
+drwxr-xr-x    7 ftp      ftp          4096 Sep 04  2010 linuxmint
+drwxr-xr-x    6 ftp      ftp          4096 Sep 05  2011 mageia
+drwxr-xr-x    5 ftp      ftp          4096 May 18 03:32 mandriva
+drwxr-xr-x   23 ftp      ftp          4096 May 11 13:28 mirrors
+drwxr-xr-x    6 ftp      ftp          4096 Apr 05  2010 mopslinux
+drwxr-xr-x   11 ftp      ftp          4096 May 15 23:34 mozilla
+drwxr-xr-x   30 ftp      ftp          4096 Apr 26  2011 openoffice
+drwxr-xr-x    8 ftp      ftp          4096 May 01 12:00 opensuse
+drwxr-xr-x    6 ftp      ftp          4096 May 18 06:11 pub
+drwxr-sr-x   17 ftp      ftp          4096 Aug 28  2011 puppyrus
+drwxr-xr-x    4 ftp      ftp          4096 Mar 28 09:16 rosa
+drwxr-xr-x    2 ftp      ftp          4096 Sep 20  2010 runtu
+drwxrwxr-x    5 ftp      ftp          4096 Mar 09  2011 sabayon
+drwxr-xr-x    9 ftp      ftp          4096 May 18 08:22 scientificlinux
+drwxr-xr-x    5 ftp      ftp          4096 Jul 28  2011 simplelinux
+drwxr-xr-x   25 ftp      ftp          4096 May 18 00:01 slackware
+drwxr-xr-x    8 ftp      ftp          4096 Nov 05  2009 slamd64
+drwxr-xr-x    6 ftp      ftp          4096 May 18 08:13 ubuntu
+drwxr-xr-x   24 ftp      ftp          4096 May 18 08:19 ubuntu-cdimage
+drwxr-xr-x   15 ftp      ftp          4096 May 18 09:57 ubuntu-releases
+
+Listing falkor.skane.se
+drwxr-xr-x   3 ftp      ftp          4096 Nov  6  2007 pub
+-rw-r--r--   1 ftp      ftp            54 May 24  2007 welcome.msg
+
+Listing mirror.nus.edu.sg
+[Errno 111] Connection refused
+
+Listing mirror.digmia.com
+drwxrwxr-x   20 108      108          4096 Mar 13 00:17 centos
+-rw-r--r--    1 0        0           16341 Jan 15 02:14 centos.png
+drwxrwsr-x    7 108      108          4096 May 16 19:29 epel
+-rw-r--r--    1 0        0            3477 Jan 15 02:14 epel.png
+drwxr-xr-x    6 108      108          4096 May 21  2007 fedora
+-rw-r--r--    1 0        0            3760 Jan 15 02:14 fedora.png
+-rw-r--r--    1 0        0            5102 Jan 15 02:14 graph.png
+-rw-r--r--    1 0        0            2662 Mar 20 16:08 header.html
+drwxr-xr-x    8 0        0            4096 Feb 04 10:20 scientific
+-rw-r--r--    1 0        0            9048 Jan 15 02:14 scientific.png
+
+Listing mirrors.se.eu.kernel.org
+lrwxrwxrwx    1 536      536             4 Nov 03  2005 CPAN -> cpan
+-r--r--r--    1 536      536             0 Apr 20  2009 FOOTER.html
+drwxrwxr-x   23 537      537          4096 May 18 04:05 LDP
+drwxrws---    2 536      536          4096 Apr 13  2011 RCS
+drwxr-sr-x   18 537      537          4096 May 18 10:05 archlinux
+drwxrwxr-x   32 537      537          4096 Mar 13 00:17 centos
+drwxrwxr-x   12 537      537          4096 May 18 06:16 cpan
+drwxr-xr-x    8 400      400          4096 May 18 09:18 debian
+drwxr-xr-x    5 537      537          4096 May 13 12:55 debian-cd
+drwxr-xr-x    7 537      537          4096 May 21  2007 fedora
+drwxr-xr-x    3 537      537          4096 May 17 23:26 fedora-enchilada
+drwxrwsr-x    7 537      537          4096 May 17 20:32 fedora-epel
+drwx------    2 537      537          4096 Jun 12  2010 fedora.old
+drwx------    5 537      537          4096 Jun 12  2010 fedora.us
+drwxr-xr-x    6 537      537          4096 Mar 28  2011 gentoo
+drwxr-xr-x  162 537      537          4096 May 18 09:31 gentoo-portage
+drwxrwxr-x  290 537      537         12288 May 18 09:12 gnu
+lrwxrwxrwx    1 536      536             7 Nov 03  2005 ibiblio -> metalab
+-r--r--r--    1 536      536         11110 Apr 13  2011 index.html
+drwxr-xr-x    9 537      537          4096 Sep 20  2011 knoppix
+drwxr-xr-x    3 537      537          4096 Sep 20  2011 knoppix-dvd
+drwxr-xr-x    6 537      537          4096 Sep 05  2011 mageia
+drwxrwxr-x    3 537      537          4096 Apr 27  2005 mandrake
+lrwxrwxrwx    1 536      536             8 May 20  2009 mandriva -> mandrake
+drwxr-xr-x    8 537      537          4096 Jun 01  2011 meego
+drwxrwxr-x   26 537      537          4096 May 17 10:04 metalab
+drwxr-xr-x    9 537      537          4096 May 01  2005 oldlinux
+drwxr-xr-x    6 537      537          4096 May 01 12:00 opensuse
+drwxr-xr-x    9 537      537          4096 Apr 03  2010 openwall
+lrwxrwxrwx    1 536      536             1 Nov 03  2005 pub -> .
+drwxr-xr-x    3 537      537          4096 Oct 05  2011 redhat
+-r--r--r--    1 536      536            26 Mar 14  2003 robots.txt
+drwxr-xr-x   33 537      537          4096 Apr 27  2011 slackware
+drwxr-xr-x    9 537      537          4096 Dec 10  2008 slackware-iso
+drwxrwsr-x   51 537      537          4096 May 18 08:34 sources.redhat.com
+lrwxrwxrwx    1 536      536            18 Nov 03  2005 sourceware -> sources.redhat.com
+drwxr-xr-x    5 537      537          4096 Mar 03  2010 suse
+drwxr-xr-x    6 537      537          4096 May 18 09:38 ubuntu
+drwxr-xr-x   15 537      537          4096 May 18 08:38 ubuntu-releases
+-r--r--r--    1 536      536          1828 Aug 05  2007 welcome.msg
+drwxr-xr-x   22 537      537          4096 May 08 21:11 yocto
+
+Listing ftp.upjs.sk
+-rw-r--r--    1 501      501      13492972 May 17 21:09 ls-laR.gz
+drwxr-xr-x    7 0        0            4096 Oct 10  2011 pub
+
+Listing archive.eu.kernel.org
+-r--r--r--    1 536      536             0 Apr 20  2009 FOOTER.html
+drwxrws---    2 536      536          4096 Apr 13  2011 RCS
+drwxr-xr-x    3 537      537          4096 Oct 06  2009 archlinux
+drwxrwxr-x   36 537      537          4096 Apr 20 21:27 centos-vault
+drwxr-xr-x   10 537      537          4096 Apr 23 22:23 debian-archive
+drwxr-xr-x   10 537      537          4096 Mar 26 05:32 debian-ftp
+drwxr-xr-x   15 537      537          4096 Feb 20 20:22 fedora-alt
+drwxr-xr-x    6 537      537          4096 Oct 26  2010 fedora-archive
+drwxrwxr-x    6 537      537          4096 Nov 28 20:09 fedora-secondary
+-r--r--r--    1 536      536          9144 Apr 13  2011 index.html
+drwxr-xr-x    3 537      537          4096 Oct 05  2011 moblin
+drwxr-xr-x    8 537      537          4096 Aug 17  2007 opensuse-archive
+-r--r--r--    1 536      536            26 Mar 14  2003 robots.txt
+drwx------    2 537      537          4096 Sep 20  2011 slackware-archive
+-r--r--r--    1 536      536          1995 Apr 28  2009 welcome.msg
+
+Listing repo.boun.edu.tr
+-rwxr-xr-x    1 ftp      ftp          2051 Apr 27 12:46 HEADER.html
+drwxr-xr-x    2 ftp      ftp          4096 Sep 14  2011 HEADER.images
+drwxrwxr-x   20 ftp      ftp          4096 Mar 13 00:17 centos
+drwxrwsr-x    6 ftp      ftp          4096 May 17 20:32 epel
+-rw-r--r--    1 ftp      ftp          2238 Aug 24  2011 favicon.ico
+lrwxrwxrwx    1 ftp      ftp            11 Sep 14  2011 index.html -> HEADER.html
+lrwxrwxrwx    1 ftp      ftp            15 Sep 14  2011 stats -> /var/www/stats/
+
+Listing ftp.linux.org.tr
+drwxr-xr-x    2 1005     1006          512 Aug 11  2006 Tez-Makale
+drwxr-xr-x   16 1005     1006          512 Jan 14 19:13 archlinux
+drwxr-xr-x    3 1005     1006          512 May 06  2009 av-pardus
+drwxr-xr-x    2 1005     1006          512 May 06  2009 avuntu
+drwxrwxr-x   26 1005     1006         1024 Mar 13 00:17 centos
+drwxr-xr-x    9 1005     1006          512 May 18 10:03 debian
+drwxr-xr-x    6 1005     1006          512 May 13 12:16 debian-cd
+drwxrwxr-x    6 1005     1006          512 May 12 08:59 debian-multimedia
+drwxr-xr-x    6 1005     1006          512 May 18 08:54 debian-security
+drwxr-sr-x    5 1005     1006          512 Mar 30 03:01 debian-volatile
+dr-xrwxr-x    2 1005     1006          512 Sep 15  2011 dynebolic
+drwxr-xr-x    6 1005     1006          512 May 18 06:36 epel
+drwxr-xr-x    5 1005     1006          512 May 21  2007 fedora
+drwxr-xr-x    5 1005     1006          512 Mar 28  2011 gentoo
+drwxrwxr-x  162 1005     1006         3584 May 18 09:00 gentoo-portage
+drwxr-xr-x    3 1005     1006         1024 May 17 06:49 gnewsense
+drwxrwxrwx    4 1005     1006          512 Aug 18  2010 hadron
+drwxrwsr-x   21 1005     1006          512 Jul 28  2011 kernel
+drwxr-xr-x    4 1005     1006         2560 Sep 20  2011 knoppix
+drwxr-xr-x    2 1005     1006          512 Oct 30  2009 kubuntu
+drwxr-xr-x    4 1005     1006          512 May 16  2009 lapis
+drwxr-xr-x    9 1005     1006         1024 Apr 20 09:41 linux-libre
+drwxr-xr-x    3 1005     1006          512 Feb 28  2010 linuxmint
+drwxr-xr-x    5 1005     1006         1024 Nov 17  2011 linuxmint-tr
+-rw-r--r--    1 1005     1006     225566132 May 18 05:21 ls-lR
+-rw-r--r--    1 1005     1006     27991205 May 18 05:21 ls-lR.gz
+-rw-r--r--    1 1005     1006          691 May 18 05:21 ls-sizes
+drwxr-xr-x    3 1005     1006          512 Dec 24  2010 mandriva
+drwxrwxrwx    4 1005     1006          512 May 25  2010 mandriva-tr
+drwxrwxr-x    3 1005     1006          512 Jun 03  2009 mepis
+drwxr-xr-x    6 1005     1006          512 Nov 17  2010 mydlp
+drwxrwxr-x    5 1005     1006          512 Sep 25  2011 openoffice.org
+drwxr-xr-x    5 1005     1006          512 May 01 12:00 opensuse
+drwxr-xr-x    4 1005     1006          512 Dec 24  2010 pardus
+drwxrwxr-x   10 1005     1006          512 Feb 27 11:05 postgresql
+lrwxr-xr-x    1 1005     1006           16 Jul 23  2009 releases -> ubuntu-releases/
+drwxr-xr-x   12 1005     1006          512 May 18 02:21 scientific
+drwxr-xr-x   20 1005     1006         1024 Apr 27  2011 slackware
+drwxr-xr-x    3 1005     1006          512 Mar 20 22:42 tdf
+drwxr-xr-x    3 1005     1006          512 Jun 19  2010 trisquel
+drwxr-xr-x    3 1005     1006          512 Apr 02 19:49 truva
+drwxr-xr-x    3 1005     1006          512 May 06  2009 turkix
+drwxr-xr-x    7 1005     1006          512 May 18 08:15 ubuntu
+drwxr-xr-x   16 1005     1006         1024 May 18 05:29 ubuntu-releases
+
+Listing mirror.vit.com.tr
+drwxrwxr-x   12 451      451          4096 May 18 10:01 CPAN
+drwxrwxr-x   33 406      429          4096 Mar 13 00:17 CentOS
+drwxrwsr-x    7 263      263          4096 May 17 20:32 Epel
+drwxr-xr-x    3 263      263          4096 May 17 23:26 Fedora
+drwxr-xr-x   11 1000     1000         4096 Nov 11  2010 Firefox
+drwxr-xr-x   17 455      5200         4096 Nov 03  2011 MySQL
+drwxr-xr-x   14 0        0            4096 Feb 28 19:00 Ubuntu
+
+Listing ftp.itu.edu.tr
+drwxr-xr-x    7 0        0            4096 Feb 22 20:54 Mirror
+drwxr-xr-x    5 0        0            4096 Feb 28 23:06 Utility
+
+Listing ftp.oss.eznetsols.org
+drwxr-xr-x   12 ftp      ftp          4096 May 18 16:03 cpan
+drwxr-xr-x    7 ftp      ftp          4096 Sep 23  2011 linux
+drwxr-xr-x    5 ftp      ftp          4096 May 16 07:34 mozilla
+drwxr-sr-x   17 ftp      ftp          4096 Nov 04  2011 mysql
+drwxr-xr-x    5 ftp      ftp          4096 Jul 02  2009 proftpd
+
+Listing mirror.arlug.ro
+drwxrwxrwx    2 ftp      ftp          4096 May 21  2011 graphs
+drwxr-xr-x    5 ftp      ftp          4096 Apr 05 18:38 pub
+
+Listing linus.iyte.edu.tr
+drwxr-xr-x   4 ftp      ftp          4096 Dec  7  2009 pub
+d-wx-wx--x   2 ftp      ftp          4096 Oct 21  2009 uploads
+-rw-r--r--   1 ftp      ftp           232 Nov 20  2009 welcome.msg
+
+Listing mirrors.issp.co.th
+drwxrwsr-x  110 511      9997         4096 May 10 10:10 apache
+drwxrwxr-x   32 501      501          4096 Mar 13 00:17 centos
+drwxrwxr-x   13 451      451          4096 May 18 07:34 cpan
+drwxr-xr-x    3 263      263          4096 Feb 20 02:19 fedora
+drwxrwxrwx    2 0        0            4096 Sep 14  2011 incoming
+drwxr-xr-x    4 0        0            4096 Jul 20  2011 issp
+drwxr-sr-x   17 631      100          4096 Nov 03  2011 mysql
+
+Listing ftp.stu.edu.tw
+drwxr-xr-x    5 0          0                  47 Jun 24  2009 BSD
+lrwxrwxrwx    1 0          0                  24 May 10  2009 CPAN -> Unix/Languages/perl/CPAN
+lrwxrwxrwx    1 0          0                  11 May  6  2009 FreeBSD -> BSD/FreeBSD
+-rw-r--r--    1 1000       1000             2242 Oct  2  2008 HEADER.html
+drwxr-xr-x   10 0          0                 122 Mar 24  2011 Linux
+drwxr-xr-x   10 0          0                 110 May  6  2009 Unix
+drwxr-xr-x   10 1000       1000             4096 Feb 24  2011 Windows
+lrwxrwxrwx    1 0          0                  12 Jul 23  2009 debian -> Linux/debian
+lrwxrwxrwx    1 0          0                  16 Jul 23  2009 debian-cd -> Linux/debian-cd/
+lrwxrwxrwx    1 0          0                  21 Aug  3  2009 debian-security -> Linux/debian-security
+drwxrwxr-x  118 1000       0                4096 May 14 22:10 eclipse
+-rw-r--r--    1 0          0           986290348 May 18 16:25 ls-lR
+drwxr-xr-x    3 1003       1006               17 May  6  2009 osdc
+drwxr-xr-x    5 0          0                  52 Mar  4 15:16 others
+drwxr-xr-x    2 1005       1005             4096 Mar 25  2009 photocap
+lrwxrwxrwx    1 0          0                  24 May  6  2009 postgresql -> Unix/Database/postgresql
+lrwxrwxrwx    1 0          0                   1 May  6  2009 pub -> .
+drwxr-xr-x   14 1000       1000             4096 Mar 18 11:10 stu
+lrwxrwxrwx    1 0          0                  12 May  6  2009 ubuntu -> Linux/ubuntu
+lrwxrwxrwx    1 0          0                  15 May  6  2009 ubuntu-cd -> Linux/ubuntu-cd
+lrwxrwxrwx    1 0          0                  15 May  6  2009 vim -> Unix/Editor/vim
+-rw-r--r--    1 1000       1000               51 Oct 23  2006 welcome.msg
+drwxr-xr-x    2 1000       1000             8192 Dec 11  2008 wordpress
+drwxr-xr-x    2 1000       1000             4096 Mar 30  2010 wpmu
+
+Listing ftp.twaren.net
+lrwxrwxrwx    1 0          0                   7 Oct 24  2010 BSD -> pub/BSD
+lrwxrwxrwx    1 0          0                   9 Oct 24  2010 Linux -> pub/Linux
+lrwxrwxrwx    1 0          0                   7 Oct 24  2010 Sun -> pub/Sun
+lrwxrwxrwx    1 0          0                   8 Oct 21  2010 Unix -> pub/Unix
+lrwxrwxrwx    1 0          0                  19 Dec  1  2010 local-distfiles -> pub/local-distfiles
+drwx------    2 0          0               16384 Oct 13  2010 lost+found
+drwxr-xr-x   11 0          0                4096 Mar 19 13:17 pub
+
+Listing ftp.isu.edu.tw
+lrwxrwxrwx    1 ftp      ftp            16 Jan 07  2005 00_index.txt -> pub/00_index.txt
+lrwxrwxrwx    1 ftp      ftp             9 Jan 07  2005 Apple -> pub/Apple
+lrwxrwxrwx    1 ftp      ftp             8 Jan 07  2005 CPAN -> pub/CPAN
+lrwxrwxrwx    1 ftp      ftp            10 Jan 07  2005 CPatch -> pub/CPatch
+lrwxrwxrwx    1 ftp      ftp            11 Jan 07  2005 FreeBSD -> pub/FreeBSD
+lrwxr-xr-x    1 ftp      ftp            12 Jul 27  2010 Hardware -> pub/Hardware
+lrwxrwxrwx    1 ftp      ftp             8 Jan 07  2005 Java -> pub/Java
+lrwxrwxrwx    1 ftp      ftp             9 Jan 07  2005 Linux -> pub/Linux
+lrwxrwxrwx    1 ftp      ftp            14 Jan 07  2005 MsDownload -> pub/MsDownload
+lrwxrwxrwx    1 ftp      ftp             9 Jan 07  2005 MySQL -> pub/MySQL
+lrwxrwxrwx    1 ftp      ftp            10 Jan 07  2005 NetBSD -> pub/NetBSD
+lrwxrwxrwx    1 ftp      ftp            11 Jan 07  2005 OpenBSD -> pub/OpenBSD
+lrwxr-xr-x    1 ftp      ftp            14 Jul 27  2010 OpenOffice -> pub/OpenOffice
+lrwxrwxrwx    1 ftp      ftp             7 Jan 07  2005 RFC -> pub/RFC
+lrwxrwxrwx    1 ftp      ftp             7 Jan 07  2005 Sun -> pub/Sun
+lrwxrwxrwx    1 ftp      ftp             8 Jan 07  2005 Unix -> pub/Unix
+lrwxr-xr-x    1 ftp      ftp            10 Jul 27  2010 Vendor -> pub/Vendor
+lrwxrwxrwx    1 ftp      ftp            11 Jan 07  2005 Windows -> pub/Windows
+lrwxrwxrwx    1 ftp      ftp            10 Jan 07  2005 cpatch -> pub/CPatch
+lrwxrwxrwx    1 ftp      ftp            23 Jan 07  2005 debian -> pub/Linux/Debian/debian
+-rw-r--r--    1 ftp      ftp      829589914 May 17 22:50 ls-lR
+-rw-r--r--    1 ftp      ftp      113692795 May 17 22:50 ls-lR.gz
+drwxr-xr-x   18 ftp      ftp           512 May 09 07:27 pub
+-rw-r--r--    1 ftp      ftp           914 Mar 13  2004 welcome.msg
+
+Listing opensource.nchc.org.tw
+lrwxrwxrwx   1 ftp      ftp            15 Mar  2  2010 Apache -> packages/Apache
+lrwxrwxrwx   1 ftp      ftp            12 Mar  2  2010 centos -> dists/centos
+lrwxrwxrwx   1 ftp      ftp            13 Jun  7  2011 chakra -> dists/chakra/
+lrwxrwxrwx   1 ftp      ftp            16 Mar  2  2010 Chinese -> packages/Chinese
+lrwxrwxrwx   1 ftp      ftp            21 Mar  2  2010 clonezilla-live -> dists/clonezilla-live
+lrwxrwxrwx   1 ftp      ftp            13 Mar  2  2010 COSA -> packages/COSA
+lrwxrwxrwx   1 ftp      ftp            13 Feb 15  2011 cpan -> packages/cpan
+lrwxrwxrwx   1 ftp      ftp            12 Mar  2  2010 debian -> dists/debian
+lrwxrwxrwx   1 ftp      ftp            15 Mar  2  2010 debian-cd -> dists/debian-cd
+lrwxrwxrwx   1 ftp      ftp            23 Apr  2 08:26 debian-multimedia -> dists/debian-multimedia
+lrwxrwxrwx   1 ftp      ftp            21 Mar  2  2010 debian-security -> dists/debian-security
+drwxr-xr-x  27 ftp      ftp          4096 Mar  2 09:05 dists
+lrwxrwxrwx   1 ftp      ftp            18 Mar  2  2010 drbl-core -> packages/drbl-core
+lrwxrwxrwx   1 ftp      ftp            15 Mar  2  2010 drbl-live -> dists/drbl-live
+lrwxrwxrwx   1 ftp      ftp            16 Mar  2  2010 Eclipse -> packages/Eclipse
+lrwxrwxrwx   1 ftp      ftp            15 Mar  2  2010 ezdrbl -> packages/ezdrbl
+lrwxrwxrwx   1 ftp      ftp            13 Mar  2  2010 ezgo -> packages/ezgo
+lrwxrwxrwx   1 ftp      ftp            12 Mar  2  2010 fedora -> dists/fedora
+lrwxrwxrwx   1 ftp      ftp            14 Mar  2  2010 Fonts -> packages/Fonts
+lrwxrwxrwx   1 ftp      ftp            12 Mar  2  2010 gentoo -> dists/gentoo
+lrwxrwxrwx   1 ftp      ftp            15 Mar  2  2010 Globus -> packages/Globus
+lrwxrwxrwx   1 ftp      ftp            24 Mar  2  2010 GParted-Clonezilla -> dists/GParted-Clonezilla
+lrwxrwxrwx   1 ftp      ftp            18 Mar  2  2010 gparted-live -> dists/gparted-live
+lrwxrwxrwx   1 ftp      ftp            12 Mar  2  2010 KDE -> packages/KDE
+lrwxrwxrwx   1 ftp      ftp            18 Mar  2  2010 kerrighed -> packages/kerrighed
+lrwxrwxrwx   1 ftp      ftp            16 Mar  2  2010 Kitware -> packages/Kitware
+lrwxrwxrwx   1 ftp      ftp            15 Nov 27 02:37 linuxmint -> dists/linuxmint
+lrwxrwxrwx   1 ftp      ftp            12 May  5  2011 mageia -> dists/mageia
+lrwxrwxrwx   1 ftp      ftp            14 Mar  2  2010 mandrake -> dists/mandrake
+lrwxrwxrwx   1 ftp      ftp            14 Mar  2  2010 mandriva -> dists/mandriva
+lrwxrwxrwx   1 ftp      ftp            16 Mar  2  2010 Mozilla -> packages/Mozilla
+lrwxrwxrwx   1 ftp      ftp            16 Mar  2  2010 netboss -> packages/netboss
+lrwxrwxrwx   1 ftp      ftp             9 Mar  2  2010 odp -> dists/odp
+lrwxrwxrwx   1 ftp      ftp            13 Mar 11  2010 odp-old -> dists/odp-old
+lrwxrwxrwx   1 ftp      ftp            15 Mar  2  2010 OpenCA -> packages/OpenCA
+lrwxrwxrwx   1 ftp      ftp            19 Mar  2  2010 openoffice -> packages/openoffice
+lrwxrwxrwx   1 ftp      ftp            23 Mar  2  2010 OpenOffice.old -> packages/OpenOffice.old
+lrwxrwxrwx   1 ftp      ftp            14 Mar  2  2010 opensuse -> dists/opensuse
+drwxr-xr-x  26 ftp      ftp          4096 Aug  2  2011 packages
+lrwxrwxrwx   1 ftp      ftp            16 Mar  2  2010 scientific -> dists/scientific
+lrwxrwxrwx   1 ftp      ftp            15 Mar  2  2010 slackware -> dists/slackware
+lrwxrwxrwx   1 ftp      ftp            10 Mar  2  2010 SuSE -> dists/SuSE
+lrwxrwxrwx   1 ftp      ftp            17 Mar  2  2010 syslinux -> packages/syslinux
+lrwxrwxrwx   1 ftp      ftp            12 Aug  2  2011 tdf -> packages/tdf
+lrwxrwxrwx   1 ftp      ftp            20 Mar  2  2010 TMP-Eclipse -> packages/TMP-Eclipse
+lrwxrwxrwx   1 ftp      ftp            12 Mar  2  2010 ubuntu -> dists/ubuntu
+lrwxrwxrwx   1 ftp      ftp            15 Mar  2  2010 ubuntu-cd -> dists/ubuntu-cd
+lrwxrwxrwx   1 ftp      ftp            16 Mar  2  2010 ubuntu-dvd -> dists/ubuntu-dvd
+lrwxrwxrwx   1 ftp      ftp            20 Mar  2  2010 ubuntu-partner -> dists/ubuntu-partner
+lrwxrwxrwx   1 ftp      ftp            16 Mar  2  2010 XFree86 -> packages/XFree86
+
+Listing fedora.vc.ukrtel.net
+-rw-r--r--    1 0        0            2508 Aug 20  2008 CA.cert
+lrwxrwxrwx    1 0        0               7 Sep 24  2008 CA.crt -> CA.cert
+-rw-r--r--    1 0        0            1150 Apr 08  2008 favicon.ico
+lrwxrwxrwx    1 0        0               4 Sep 24  2008 linux -> unix
+drwxr-xr-x   18 0        0            4096 Feb 15 06:42 mirror
+drwxrwxrwx    2 99       50           4096 Oct 08  2009 open
+lrwxrwxrwx    1 0        0               2 Sep 30  2008 pub -> ./
+drwxrwxr-x    2 501      100          4096 Dec 16 13:20 temp
+drwxr-xr-x    2 0        0            4096 Sep 13  2008 test
+drwxr-xr-x   21 0        0            4096 Apr 08  2011 unix
+lrwxrwxrwx    1 0        0              11 Apr 08  2011 vmware -> unix/vmware
+drwxr-xr-x   13 0        0            4096 Dec 16 13:31 win
+
+Listing ftp.colocall.net
+total 2
+drwxr-xr-x  4 0  0  512 May 27  2011 pub
+
+Listing ftp.tlk-l.net
+lrwxrwxrwx    1 0        0              23 Mar 22 00:45 centos -> pub/mirrors/centos.org/
+drwxr-xr-x    5 0        0            4096 Feb 22 15:43 pub
+
+Listing ftp.cs.pu.edu.tw
+drwxr-xr-x   17 0          0                1024 Apr 16 02:11 .
+drwxr-xr-x   17 0          0                1024 Apr 16 02:11 ..
+drwxr-xr-x    7 0          0                 512 Apr 20 11:58 BSD
+drwxr-xr-x    5 0          0                 512 Nov 11  2010 Cloud
+lrwxr-xr-x    1 0          0                  17 Sep 22  2008 DragonFLYBSD -> BSD/DragonFLYBSD/
+lrwxr-xr-x    1 0          0                  12 Sep 22  2008 FreeBSD -> BSD/FreeBSD/
+drwxr-xr-x   13 0          0                 512 Feb 15 15:32 Linux
+lrwxr-xr-x    1 0          0                  10 Sep 22  2008 PCBSD -> BSD/PCBSD/
+lrwxr-xr-x    1 0          0                  17 Sep 22  2008 Postfix -> Unix/mail/Postfix
+lrwxr-xr-x    1 0          0                  25 Apr 15  2008 Postfix-source -> Unix/mail/Postfix-source/
+drwxr-xr-x   11 0          0                 512 Feb 21  2011 Unix
+drwxr-xr-x    2 0          0                 512 Jan 13  2011 VMware
+drwxr-xr-x    5 1016       1016              512 Jul 21  2010 Windows
+drwxr-xr-x  110 0          0                2048 May 10 18:10 apache
+drwxrwxr-x   36 0          0                1024 Nov 11  2010 cpatch
+lrwxr-xr-x    1 0          0                  19 Apr  8  2011 debian -> Linux/Debian/debian
+lrwxr-xr-x    1 0          0                  22 Apr  8  2011 debian-cd -> Linux/Debian/debian-cd
+drwxr-xr-x    6 0          0                 512 Apr 21  2009 drbl-core
+drwxr-xr-x    4 0          0                 512 Dec 27  2008 gnu
+drwxr-xr-x    2 0          0                1024 Jan 14  2009 images
+-rw-r--r--    1 0          0               12458 Mar  1  2011 index.html
+-rw-r--r--    1 0          0               11800 Dec 22  2008 index.html.bak
+-rw-r--r--    1 0          0               12210 Mar  1  2011 index02.html
+drwx------    2 0          0               18432 Jan 29  2011 lost+found
+-rw-r--r--    1 0          0           290488606 Sep 24  2008 ls-lR
+-rw-r--r--    1 0          0            20473673 Sep 15  2008 ls-lR.gz
+drwxr-xr-x   16 0          0                 512 Sep 22  2008 network
+drwxr-xr-x    4 0          0                 512 Sep 22  2008 others
+drwxr-xr-x   15 0          0                 512 Aug 31  2011 pub
+lrwxr-xr-x    1 0          0                  20 Sep 22  2008 sunfreeware -> pub/Sun/sunfreeware/
+
+Listing chi-10g-1-mirror.fastsoft.net
+-rwxrwxrwx    1 ftp      ftp        102400 Oct 25  2010 100KB.zip
+-rwxrwxrwx    1 ftp      ftp      105300533 Oct 17  2008 100MB.zip
+-rwxrwxrwx    1 ftp      ftp         10240 Oct 25  2010 10KB.zip
+-rwxrwxrwx    1 ftp      ftp      10240000 Oct 25  2010 10MB.zip
+-rwxrwxrwx    1 ftp      ftp       1024000 Oct 25  2010 1MB.zip
+-rwxrwxrwx    1 ftp      ftp        204800 Oct 25  2010 200KB.zip
+-rwxrwxrwx    1 ftp      ftp         20480 Oct 25  2010 20KB.zip
+-rwxrwxrwx    1 ftp      ftp      20480000 Oct 25  2010 20MB.zip
+-rwxrwxrwx    1 ftp      ftp       2048000 Oct 25  2010 2MB.zip
+-rwxrwxrwx    1 ftp      ftp        512000 Oct 25  2010 500KB.zip
+-rwxrwxrwx    1 ftp      ftp      349237248 Oct 24  2008 5GB.zip
+-rwxrwxrwx    1 ftp      ftp       5120000 Oct 25  2010 5MB.zip
+-rwxrwxrwx    1 ftp      ftp       4927951 Nov 05  2008 FastSoftHD.zip
+-rw-r--r--    1 ftp      ftp           232 Feb 04  2009 HEADER.html
+-rwxrwxrwx    1 ftp      ftp      27798512 Oct 24  2008 Presentations.zip
+-rwxrwxrwx    1 ftp      ftp      17589834 Oct 24  2008 Reseller Kit.zip
+-rw-r--r--    1 ftp      ftp          6731 Feb 03  2009 amc-logo.gif
+-rw-r--r--    1 ftp      ftp          2096 Nov 15  2008 fs-logo.gif
+drwxr-xr-x    7 ftp      ftp          4096 Sep 13  2010 pub
+-rw-r--r--    1 ftp      ftp            27 Dec 16  2008 robots.txt
+
+Listing ftp.ncnu.edu.tw
+lrwxrwxrwx    1 ftp      ftp             4 May 22  2011 Documentation -> docs
+lrwxrwxrwx    1 ftp      ftp            11 May 21  2011 FreeBSD -> pub/FreeBSD
+drwxr-xr-x    5 ftp      ftp          4096 May 27  2011 Linux
+drwxr-xr-x    3 ftp      ftp          4096 Jul 09  2011 NCNU
+drwxr-xr-x   35 ftp      ftp          4096 May 17 19:31 cpatch
+drwxr-xr-x    5 ftp      ftp          4096 May 13 21:00 debian-cd
+drwxr-xr-x    2 ftp      ftp          4096 Jun 14  2011 docs
+drwxr-xr-x    3 ftp      ftp          4096 May 17 17:36 fedora
+drwxr-xr-x    4 ftp      ftp          4096 May 17 18:34 ietf
+-rw-r--r--    1 ftp      ftp          8921 Jun 02  2011 index.html
+drwxr-xr-x    3 ftp      ftp          4096 May 21  2011 pub
+-rw-r--r--    1 ftp      ftp           223 May 22  2011 robots.txt
+drwxr-xr-x    6 ftp      ftp          4096 May 17 19:23 ubuntu
+drwxr-xr-x   15 ftp      ftp          4096 May 14 21:00 ubuntu-cd
+drwxr-xr-x    9 ftp      ftp          4096 May 14 21:30 ubuntu-dvd
+
+Listing archive.kernel.org
+-r--r--r--    1 536      536             0 Apr 20  2009 FOOTER.html
+drwxrws---    2 536      536          4096 Apr 13  2011 RCS
+drwxr-xr-x    3 537      537          4096 Oct 06  2009 archlinux
+drwxrwxr-x   36 537      537          4096 Apr 20 21:27 centos-vault
+drwxr-xr-x   10 537      537          4096 Apr 23 22:23 debian-archive
+drwxr-xr-x   10 537      537          4096 Mar 26 05:32 debian-ftp
+drwxr-xr-x   15 537      537          4096 Feb 20 20:22 fedora-alt
+drwxr-xr-x    6 537      537          4096 Oct 26  2010 fedora-archive
+drwxrwxr-x    6 537      537          4096 Nov 28 20:09 fedora-secondary
+-r--r--r--    1 536      536          9144 Apr 13  2011 index.html
+drwxr-xr-x    3 537      537          4096 Oct 05  2011 moblin
+drwxr-xr-x    8 537      537          4096 Aug 17  2007 opensuse-archive
+-r--r--r--    1 536      536            26 Mar 14  2003 robots.txt
+drwx------    2 537      537          4096 Sep 20  2011 slackware-archive
+-r--r--r--    1 536      536          1995 Apr 28  2009 welcome.msg
+
+Listing mirror.lstn.net
+-rw-r--r--    1 81       81            280 May 10  2011 HEADER.html
+drwxrwxr-x   32 81       81           4096 Mar 13 00:17 centos
+drwxr-xr-x    8 81       81           4096 May 18 00:55 debian
+drwxr-xr-x    5 81       81           4096 May 17 23:03 debian-cd
+drwxr-xr-x    7 81       81           4096 May 21  2007 fedora
+drwxrwsr-x    6 81       81           4096 May 17 20:32 fedora-epel
+drwxr-xr-x   17 81       81           4096 May 17 05:09 freebsd
+drwxr-xr-x    7 81       81           4096 Mar 28  2011 gentoo
+drwxr-xr-x  162 81       81           4096 May 18 01:01 gentoo-portage
+drwxrwxr-x    2 81       81           4096 Apr 10 13:03 limestone-junos
+drwxrwxr-x    2 81       81           4096 Jun 21  2011 limestone-solusvm
+drwxr-xr-x    2 0        0            4096 Jan 25 19:33 limestone-whmcs
+drwxr-xr-x   11 81       81           4096 May 15 23:34 mozilla-releases
+drwxr-xr-x   37 81       81           4096 Apr 11 18:23 scientific
+drwxr-xr-x    3 0        0            4096 Feb 08 15:38 trixbox
+drwxr-xr-x    6 81       81           4096 May 17 23:06 ubuntu
+drwxr-xr-x   15 81       81           4096 May 18  2012 ubuntu-releases
+drwxrwxr-x    4 81       81           4096 Mar 10 04:51 xenserver
+
+Listing mirrors.kernel.org
+lrwxrwxrwx    1 536      536             4 Nov 03  2005 CPAN -> cpan
+-r--r--r--    1 536      536             0 Apr 20  2009 FOOTER.html
+drwxrwxr-x   23 537      537          4096 May 18 04:05 LDP
+drwxrws---    2 536      536          4096 Apr 13  2011 RCS
+drwxr-sr-x   18 537      537          4096 May 18 10:05 archlinux
+drwxrwxr-x   32 537      537          4096 Mar 13 00:17 centos
+drwxrwxr-x   12 537      537          4096 May 18 06:16 cpan
+drwxr-xr-x    8 400      400          4096 May 18 09:18 debian
+drwxr-xr-x    5 537      537          4096 May 13 12:55 debian-cd
+drwxr-xr-x    7 537      537          4096 May 21  2007 fedora
+drwxr-xr-x    3 537      537          4096 May 17 23:26 fedora-enchilada
+drwxrwsr-x    7 537      537          4096 May 17 20:32 fedora-epel
+drwx------    2 537      537          4096 Jun 12  2010 fedora.old
+drwx------    5 537      537          4096 Jun 12  2010 fedora.us
+drwxr-xr-x    6 537      537          4096 Mar 28  2011 gentoo
+drwxr-xr-x  162 537      537          4096 May 18 09:31 gentoo-portage
+drwxrwxr-x  290 537      537         12288 May 18 09:12 gnu
+lrwxrwxrwx    1 536      536             7 Nov 03  2005 ibiblio -> metalab
+-r--r--r--    1 536      536         11110 Apr 13  2011 index.html
+drwxr-xr-x    9 537      537          4096 Sep 20  2011 knoppix
+drwxr-xr-x    3 537      537          4096 Sep 20  2011 knoppix-dvd
+drwxr-xr-x    6 537      537          4096 Sep 05  2011 mageia
+drwxrwxr-x    3 537      537          4096 Apr 27  2005 mandrake
+lrwxrwxrwx    1 536      536             8 May 20  2009 mandriva -> mandrake
+drwxr-xr-x    8 537      537          4096 Jun 01  2011 meego
+drwxrwxr-x   26 537      537          4096 May 17 10:04 metalab
+drwxr-xr-x    9 537      537          4096 May 01  2005 oldlinux
+drwxr-xr-x    6 537      537          4096 May 01 12:00 opensuse
+drwxr-xr-x    9 537      537          4096 Apr 03  2010 openwall
+lrwxrwxrwx    1 536      536             1 Nov 03  2005 pub -> .
+drwxr-xr-x    3 537      537          4096 Oct 05  2011 redhat
+-r--r--r--    1 536      536            26 Mar 14  2003 robots.txt
+drwxr-xr-x   33 537      537          4096 Apr 27  2011 slackware
+drwxr-xr-x    9 537      537          4096 Dec 10  2008 slackware-iso
+drwxrwsr-x   51 537      537          4096 May 18 08:34 sources.redhat.com
+lrwxrwxrwx    1 536      536            18 Nov 03  2005 sourceware -> sources.redhat.com
+drwxr-xr-x    5 537      537          4096 Mar 03  2010 suse
+drwxr-xr-x    6 537      537          4096 May 18 09:38 ubuntu
+drwxr-xr-x   15 537      537          4096 May 18 08:38 ubuntu-releases
+-r--r--r--    1 536      536          1828 Aug 05  2007 welcome.msg
+drwxr-xr-x   22 537      537          4096 May 08 21:11 yocto
+
+Listing mirror.cs.princeton.edu
+drwxr-xr-x    3 0        0            4096 Nov 24  2009 pub
+
+Listing ftp.osuosl.org
+lrwxrwxrwx    1 0        0              19 Apr 17  2009 debian -> ./pub/debian/debian
+lrwxrwxrwx    1 0        0              20 Apr 17  2009 debian-cd -> ./pub/debian-cdimage
+lrwxrwxrwx    1 0        0              20 Apr 17  2009 debian-cdimage -> ./pub/debian-cdimage
+drwxr-xr-x    6 0        0            4096 Feb 10 08:11 pub
+-rw-r--r--    1 0        0             819 Feb 03  2009 welcome.msg
+
+Listing mirrors.reflected.net
+drwxrwxr-x   32 500      500          4096 Mar 12 19:17 centos
+drwxr-xr-x    8 1176     1176         4096 May 18 04:08 debian
+drwxr-xr-x    6 0        0            4096 May 13 00:00 debian-archive
+drwxr-xr-x    6 0        0            4096 Jan 07 01:00 debian-multimedia
+drwxrwsr-x    6 1176     1176         4096 May 18 04:20 debian-non-US
+drwxrwsr-x    6 1176     1176         4096 May 18 04:00 debian-security
+drwxr-xr-x    3 537      537          4096 May 17 18:26 fedora
+drwxr-xr-x    3 0        0            4096 May 08  2010 haiku
+drwxr-xr-x    3 0        0            4096 Mar 28 13:52 project
+drwxr-xr-x   13 1000     1000         4096 May 16 15:14 pub
+drwxr-xr-x    2 0        0            4096 Oct 07  2011 test
+
+Listing mirrors.syringanetworks.net
+drwxrwxr-x   12 ftp      ftp          4096 May 17 20:02 CPAN
+drwxr-xr-x   17 ftp      ftp          4096 May 17 21:12 FreeBSD
+drwxr-xr-x   20 ftp      ftp          4096 May 17 22:32 NetBSD
+drwxr-xr-x   13 ftp      ftp          4096 May 17 23:20 OpenBSD
+drwxrwsr-x  108 ftp      ftp          4096 Apr 30 20:05 apache
+drwxrwxr-x   32 ftp      ftp          4096 May 17 19:53 centos
+drwxrwsr-x    5 ftp      ftp          4096 May 17 20:02 cygwin
+drwxr-xr-x    8 ftp      ftp          4096 May 18 08:00 debian
+drwxr-xr-x    5 ftp      ftp          4096 May 18 08:00 debian-cd
+drwxr-xr-x    7 ftp      ftp          4096 May 17 20:38 fedora
+drwxrwsr-x    7 ftp      ftp          4096 May 17 20:39 fedora-epel
+drwxrwxr-x  290 ftp      ftp         12288 May 17 21:12 gnu
+drwxrwsr-x   32 ftp      ftp          4096 May 17 21:54 gutenberg
+drwxrwsr-x    2 ftp      ftp       1052672 May 17 21:55 ietf
+-rw-r--r--    1 ftp      ftp          4222 Apr 20 06:36 index.html
+drwxr-xr-x    8 ftp      ftp          4096 May 17 22:17 kernel.org
+drwxr-xr-x   11 ftp      ftp          4096 May 18 09:52 mozilla-releases
+drwxr-xr-x    2 ftp      ftp          4096 Apr 03 04:58 pub
+drwxrwxr-x    7 ftp      ftp        217088 May 17 23:21 rfcs
+-rwxr-xr-x    1 ftp      ftp         11711 Aug 31  2010 syringa_logo.jpg
+drwxr-xr-x    3 ftp      ftp          4096 Mar 20 22:42 tdf
+drwxr-xr-x    6 ftp      ftp          4096 May 18 07:21 ubuntu-archive
+drwxr-xr-x   15 ftp      ftp          4096 May 18 07:13 ubuntu-releases
+
+Listing mirror.umd.edu
+lrwxrwxrwx    1 ftp      ftp            29 Apr 25 21:59 ubuntu-iso -> /export/vg2/mirror_ubuntu-iso
+
+Listing mirrors.xmission.com
+drwxr-xr-x   12 ftp      ftp          4096 May 17 22:16 CPAN
+-rw-r--r--    1 ftp      ftp           319 May 21  2011 README.txt
+drwxr-xr-x   18 ftp      ftp          4096 May 17 13:01 aminet
+dr-xr-sr-x   16 ftp      ftp          4096 May 18 08:22 archlinux
+drwxr-xr-x    8 ftp      ftp          4096 Mar 18  2008 blender
+drwxrwxr-x   32 ftp      ftp          4096 Mar 13 00:17 centos
+drwxr-xr-x    5 ftp      ftp          4096 May 18 06:20 cygwin
+drwxr-xr-x    8 ftp      ftp          4096 May 18 04:00 debian
+drwxr-xr-x    9 ftp      ftp          4096 Apr 23 22:23 debian-archive
+drwxr-xr-x    5 ftp      ftp          4096 May 13 12:16 debian-cd
+drwxr-xr-x    6 ftp      ftp          4096 May 17 23:09 debian-security
+drwxr-xr-x  118 ftp      ftp          4096 May 14 14:10 eclipse
+drwxr-xr-x    5 ftp      ftp          4096 Oct 07  2011 fedora
+drwxr-xr-x    4 ftp      ftp          4096 Aug 10  2010 freebsd
+drwxr-xr-x    4 ftp      ftp          4096 Mar 28  2011 gentoo
+drwxr-xr-x  315 ftp      ftp         12288 Dec 19 03:52 gnu
+drwxr-xr-x   31 ftp      ftp          4096 May 17 10:17 gutenberg
+lrwxrwxrwx    1 ftp      ftp             7 Feb 03  2011 hudson -> jenkins
+-rw-r--r--    1 ftp      ftp         15340 Apr 27 21:55 index.html
+drwxr-xr-x   31 ftp      ftp          4096 May 17 12:00 jenkins
+drwxr-xr-x    8 ftp      ftp          4096 Dec 01 19:57 kernel.org
+drwxr-xr-x    9 ftp      ftp         12288 Sep 20  2011 knoppix
+drwxr-xr-x   10 ftp      ftp          4096 Apr 26 16:29 linuxmint
+drwxr-xr-x    9 ftp      ftp          4096 Dec 01  2010 mame
+drwxr-xr-x   52 ftp      ftp          4096 May 04 13:08 mariadb
+drwxr-xr-x   11 ftp      ftp          4096 May 15 23:34 mozilla.org
+drwxr-xr-x    5 ftp      ftp          4096 May 27  2007 mutt
+drwxr-xr-x    6 ftp      ftp          4096 Aug 26  2010 nexenta
+drwxr-xr-x   12 ftp      ftp          4096 May 17 09:02 openbsd
+drwxr-xr-x    7 ftp      ftp          4096 Feb 05 14:55 opencsw
+drwxrwxr-x    5 ftp      ftp          4096 Jan 25 22:52 opensuse
+drwxr-xr-x    6 ftp      ftp          4096 Feb 28  2011 pfsense
+drwxr-xr-x    2 ftp      ftp          4096 May 18 09:22 popular
+drwxr-xr-x    7 ftp      ftp        204800 May 17 16:33 rfc
+drwxr-xr-x   11 ftp      ftp          4096 May 15 22:21 sage
+drwxr-xr-x    4 ftp      ftp          4096 Mar 30  2011 scientific
+drwxr-xr-x   35 ftp      ftp          4096 Apr 28  2011 slackware
+drwxr-xr-x    6 ftp      ftp          4096 May 18 09:38 ubuntu
+drwxrwxr-x    8 ftp      ftp          4096 May 17 09:01 ubuntu-archive
+drwxr-xr-x   15 ftp      ftp          4096 May 18 08:38 ubuntu-cd
+drwxr-xr-x   11 ftp      ftp          4096 May 18 07:15 xbmc
+
+Listing ftp.uci.edu
+-rw-r--r--    1 0        1            2271 May 05  1999 README
+drwxr-xr-x   15 1156     3127         4096 Jun 20  2006 distribution
+drwxr-xr-x    2 0        0            4096 Feb 08  2007 etc
+drwxr-xr-x    3 1156     0            4096 Apr 26 23:44 linux-anyconnect-cert-fix
+drwxr-x---    2 0        3127         4096 Feb 02  1998 mac_archive
+drwxr-xr-x    5 0        3114         4096 Mar 10  1998 med-ed
+drwxr-xr-x    3 0        0            4096 Jan 31  2007 mirrors
+drwxr-xr-x    2 0        0            4096 May 05 06:45 sgs2
+
+Listing mirror.web-ster.com
+drwxr-xr-x  14 52       52           4096 Feb 22 16:04 .
+drwxr-xr-x  14 52       52           4096 Feb 22 16:04 ..
+drwxr-xr-x   3 root     502          4096 Jan 16 05:26 bwbar
+drwxrwxr-x  32 501      501          4096 Mar 13 00:17 centos
+drwxr-xr-x   7 537      537          4096 May 21  2007 fedora
+-rw-r--r--   1 root     502          2960 Sep 15  2009 fedora.php
+lrwxrwxrwx   1 root     502            10 Oct 26  2007 index.php -> fedora.php
+drwxrwsr-x   8 536      536         20480 Feb 12  2010 knoppix
+drwxrwsr-x   2 536      536         12288 Feb 12  2010 knoppix-dvd
+drwxr-xr-x   2 root     root         4096 Dec 13  2004 opencd
+drwxr-xr-x  22 root     root         4096 May 15 14:40 phpweb
+drwxr-xr-x   3 root     root         4096 Apr 22 11:13 rpi
+drwxr-xr-x   4 552      552          4096 Apr 19 09:17 rpmfusion
+drwxr-xr-x   2 root     root         4096 Oct 21  2011 speedtest
+-rw-r--r--   1 root     root          362 Nov 16  2011 test.php
+drwxr-xr-x   2 root     root         4096 Aug 18  2010 tmp
+drwxr-xr-x  13 root     root         4096 May  9  2007 ubcd
+-rw-r--r--   1 root     root          533 Mar 20  2006 welcome.txt
+
+Listing mirror.steadfast.net
+drwxrwxr-x   32 500      500          4096 Mar 13 00:17 centos
+drwxr-xr-x    6 500      500          4096 Oct 03  2011 centos-steadfast
+drwxrwxr-x    5 500      48           4096 May 17 22:10 cygwin
+drwxr-xr-x    8 500      48           4096 May 18 06:15 debian
+drwxr-xr-x    5 500      48           4096 May 17 23:03 debian-cd
+drwxrwxr-x    6 500      48           4096 May 17 23:09 debian-security
+drwxrwxr-x    7 500      48           4096 May 17 20:32 epel
+drwxr-xr-x    8 500      48           4096 May 21  2007 fedora
+drwxr-xr-x    2 500      48           4096 Aug 17  2010 gentoo
+drwxr-xr-x  162 500      48           4096 May 18 09:01 gentoo-portage
+lrwxrwxrwx    1 0        0              17 Aug 05  2010 mirrorize -> scripts/mirrorize
+drwxr-sr-x   12 500      48           4096 Mar 21 10:59 misc
+drwxrwxr-x   13 500      500          4096 Apr 16 23:29 openvz
+drwxr-xr-x    5 500      48           4096 Dec 01 17:50 other-isos
+drwxr-xr-x    3 0        0            4096 May 10 16:57 scripts
+lrwxrwxrwx    1 0        0              17 Aug 05  2010 staticize -> scripts/staticize
+drwxr-xr-x    6 500      48           4096 May 18 09:08 ubuntu
+drwxr-xr-x   15 500      48           4096 May 18 07:42 ubuntu-releases
+
+Listing mirrors.usc.edu
+drwx------    2 0        0           16384 Feb 13 18:13 lost+found
+drwxr-xr-x    9 0        0            4096 May 10 20:33 pub
+drwxr-xr-x    5 350      79           4096 Nov 07  2007 usc
+
+Listing ftp.linux.ncsu.edu
+drwxr-xr-x    6 342      342          4096 Nov 20  2009 mirror
+drwxr-xr-x    6 342      342          4096 Mar 29  2011 pub
+
+Listing mirror.anl.gov
+drwxr-xr-x    3 1001     1001         4096 May 18 05:02 pub
+
+Listing mirror.symnds.com
+lrwxrwxrwx    1 ftp      ftp            20 Jan 30 19:30 CentOS -> distributions/CentOS
+lrwxrwxrwx    1 ftp      ftp            21 Jan 30 19:30 FreeBSD -> distributions/freebsd
+drwxr-xr-x    2 ftp      ftp          4096 May 03 17:36 cgi-bin
+lrwxrwxrwx    1 ftp      ftp            20 Feb 14 16:32 debian -> distributions/debian
+drwxrwsr-x   22 ftp      ftp          4096 Mar 05 19:50 distributions
+drwxr-xr-x    3 ftp      ftp          4096 May 03 17:37 error
+-rw-r--r--    1 ftp      ftp          1406 Jan 30 19:30 favicon.ico
+drwxr-xr-x    2 ftp      ftp          4096 May 03 17:37 html
+drwxr-xr-x    3 ftp      ftp          4096 May 03 17:37 icons
+drwxr-xr-x   14 ftp      ftp         12288 May 03 17:37 manual
+drwxr-xr-x    2 ftp      ftp          4096 Jan 30 19:31 pub
+lrwxrwxrwx    1 ftp      ftp            31 Jan 30 19:30 serentos -> distributions/Serentos/serentos
+-rw-r--r--    1 ftp      ftp        524288 Jan 30 19:30 smokeping.test
+drwxr-xr-x   16 ftp      ftp          4096 Apr 13 23:59 software
+drwxr-xr-x    3 ftp      ftp          4096 May 16 02:10 stats
+lrwxrwxrwx    1 ftp      ftp            20 Jan 30 19:29 ubuntu -> distributions/ubuntu
+
+Listing linux.mirrors.es.net
+drwxrwxr-x   12 ftp      ftp          4096 May 18 08:46 CPAN
+lrwxrwxrwx    1 ftp      ftp             6 Feb 27  2008 CentOS -> centos
+drwxrwxr-x   23 ftp      ftp          4096 May 18 08:47 LDP
+drwxr-xr-x    2 ftp      ftp          4096 Feb 29 21:32 RCS
+drwxr-xr-x   27 ftp      ftp          4096 May 18 08:01 atrpms
+drwxrwxr-x   32 ftp      ftp          4096 May 18 07:00 centos
+lrwxrwxrwx    1 ftp      ftp             4 Oct 29  2007 cpan -> CPAN
+lrwxrwxrwx    1 ftp      ftp            12 Jul 02  2008 dist -> kernel/dist/
+drwxrws---   12 ftp      ftp          4096 Mar 22 01:45 esnet
+-rw-r--r--    1 ftp      ftp          7580 Feb 06  2011 esnet-lbl-doe-logo-2010.jpg
+drwxr-xr-x    3 ftp      ftp          4096 Oct 29  2007 fedora
+drwxrwsr-x    7 ftp      ftp          4096 May 18 07:31 fedora-epel
+drwxr-xr-x    8 ftp      ftp          4096 Nov 01  2007 gentoo
+drwxr-xr-x  332 ftp      ftp         12288 May 18 08:20 gnu
+drwxr-xr-x    2 ftp      ftp          4096 Apr 13  2011 icons
+drwxr-xr-x    2 ftp      ftp          4096 Apr 13  2011 images
+drwxr-xr-x    4 ftp      ftp          4096 Apr 13  2011 includes
+-r-xr-xr-x    1 ftp      ftp         12625 Feb 29 21:31 index.html
+drwxr-xr-x    6 ftp      ftp          4096 Feb 15  2011 internet2
+drwxr-xr-x    9 ftp      ftp          4096 May 18 08:56 kernel
+lrwxrwxrwx    1 ftp      ftp             3 Oct 29  2007 ldp -> LDP
+lrwxrwxrwx    1 ftp      ftp            13 Jul 01  2008 linux -> kernel/linux/
+drwxr-xr-x    2 ftp      ftp          8192 Oct 18  2007 lost+found
+drwxr-xr-x    6 ftp      ftp          4096 May 18 08:42 opensuse
+drwxr-xr-x    3 ftp      ftp          4096 Jan 20  2011 opsview
+drwxr-xr-x    6 ftp      ftp          4096 Apr 13  2011 perfsonar
+drwxr-xr-x    3 ftp      ftp          4096 Nov 01  2007 redhat
+drwxr-xr-x    3 ftp      ftp          4096 Oct 15  2011 rpmforge-partial
+drwxr-xr-x   37 ftp      ftp          4096 May 18 07:53 scientific
+lrwxrwxrwx    1 ftp      ftp            16 Jul 01  2008 software -> kernel/software/
+drwxr-xr-x    5 ftp      ftp          4096 May 18 08:42 suse
+drwxr-xr-x    2 ftp      ftp          4096 Oct 16  2010 svn-mirrors
+lrwxrwxrwx    1 ftp      ftp            13 Jul 02  2008 tools -> kernel/tools/
+drwxr-xr-x    6 ftp      ftp          4096 May 18 08:54 ubuntu
+drwxr-xr-x    4 ftp      ftp          4096 Aug 24  2011 ubuntu-iso
+drwxr-xr-x   15 ftp      ftp          4096 May 18 08:40 ubuntu-releases
+drwxr-xr-x    3 ftp      ftp          4096 May 18 08:43 vmware
+drwxr-xr-x    5 ftp      ftp          4096 May 18 10:00 web100_kernel
+
+Listing mirror.freedomvoice.com
+drwxrwxr-x   32 ftp      ftp          4096 Mar 13 00:17 CentOS
+drwxrwxr-x    5 ftp      ftp          4096 Jan 25 22:52 OpenSUSE
+lrwxrwxrwx    1 ftp      ftp             6 Mar 25  2011 centos -> CentOS
+drwxrwsr-x    7 ftp      ftp          4096 Feb 20 16:47 epel
+-rw-r--r--    1 ftp      ftp          1150 Aug 10  2010 favicon.ico
+drwx------    2 ftp      ftp          4096 Dec 22 07:43 lost+found
+lrwxrwxrwx    1 ftp      ftp             8 Mar 25  2011 opensuse -> OpenSUSE
+drwxrwxr-x    3 ftp      ftp          4096 Dec 06  2009 rfc
+drwx------    2 ftp      ftp          4096 Nov 16  2011 seed
+
+Listing be.mirror.eurid.eu
+[Errno 110] Connection timed out
+
+Listing glug.nith.ac.in
+drwxr-xr-x  16 ftp      ftp            17 Jan 14 19:13 archlinux
+drwxr-xr-x   7 ftp      ftp             7 May 21  2007 fedora
+drwxrwxr-x 290 ftp      ftp           352 May 15 00:06 gnu
+drwxr-xr-x   2 ftp      ftp             6 Jan 12 12:19 linuxmint
+drwxr-xr-x  11 ftp      ftp            12 May 15 23:34 mozilla.org
+drwxr-xr-x   4 ftp      ftp             4 Jan 28 17:48 ubuntu
+-rw-r--r--   1 ftp      ftp       4754944 Oct 12  2011 unetbootin-windows-563.exe
+
+Listing nl.mirror.eurid.eu
+[Errno 110] Connection timed out
+
+Listing os.nchc.org.tw
+[Errno 110] Connection timed out
+
