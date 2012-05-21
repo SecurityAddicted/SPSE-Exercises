@@ -33,8 +33,8 @@ class bf(object):
 def parseETH(header):
         eth_hdr = struct.unpack("!6s6s2s", header)
         global IP
-        print "Source MAC address: ", binascii.hexlify(eth_hdr[0])
-        print "Destination MAC address: ", binascii.hexlify(eth_hdr[1])
+        print "Source MAC address: ", binascii.hexlify(eth_hdr[1])
+        print "Destination MAC address: ", binascii.hexlify(eth_hdr[0])
         if binascii.hexlify(eth_hdr[2]) == '0800':
                 IP = True
 
