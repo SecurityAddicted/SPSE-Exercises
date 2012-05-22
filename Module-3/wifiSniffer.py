@@ -18,4 +18,4 @@ def sniffSsid(pkt):
                         bssidList.append(pkt.addr3)
 
 
-sniff(iface=interface, prn=sniffSsid)
+sniff(iface=interface, prn=sniffSsid, store=0)

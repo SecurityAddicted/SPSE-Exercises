@@ -20,4 +20,4 @@ def printHttpData(pkt):
                         print item
         print "---------------------------------------------------------"
 
-sniff(filter="tcp port 80", prn=printHttpData)
+sniff(filter="tcp port 80", prn=printHttpData, store=0)
