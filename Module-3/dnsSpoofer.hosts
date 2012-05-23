@@ -1,0 +1,4 @@
+#hostsfile for dnsSpoofer.py
+
+127.0.0.1	google.it
+127.0.0.1       youtube.it
