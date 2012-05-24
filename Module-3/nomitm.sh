@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo 0 > /proc/sys/net/ipv4/ip_forward
+killall python ./arpSpoofer.py
 
-#echo 0 > /proc/sys/net/ipv4/conf/$1/send_redirects
+echo 0 > /proc/sys/net/ipv4/ip_forward
