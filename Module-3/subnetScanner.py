@@ -14,11 +14,9 @@ address = ipinfo['addr']
 netmask = ipinfo['netmask']
 
 cidr = netaddr.IPNetwork('%s/%s' % (address, netmask))
-network = cidr.network
 
-for lsb in range(1, 255):
-        ip = str(network).replace("0", str(lsb))
-        arpRequest = Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst=ip, hwdst="ff:ff:ff:ff:ff:ff")
+for ip in cidr:
+        arpRequest = Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst=str(ip), hwdst="ff:ff:ff:ff:ff:ff")
         arpResponse = srp1(arpRequest, timeout=1, verbose=0)
         if arpResponse:
-                print "IP: " + arpResponse.psrc + " MAC: " + arpResponse.hwsrc
+                print "IP: " + arpResponse.psrc + "    MAC: " + arpResponse.hwsrc
