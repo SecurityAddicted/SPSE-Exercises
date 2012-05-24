@@ -15,7 +15,7 @@ class HttpRequestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
 
 def receivedAlarm(signum, frm):
         global httpServer
-        httpServer.shutdown()
+        #httpServer.shutdown()     #don't work correctly, block the program
         sys.exit(0)
 
 def main(argv):
