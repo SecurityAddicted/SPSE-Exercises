@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-import sys, urllib, getopt,time
-from progressbar import *
+import sys, urllib, getopt, time
 
 def usage():
         print "Usage: ./dlProgress.py <url1> <url2> ... <urln>"
