@@ -1,14 +1,14 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 name = raw_input("What is your name?")
 
 print "Your name is " + name
 
 if name == 'alex':
-	print "You are alex"
-	print "The computer admin"
+    print "You are alex"
+    print "The computer admin"
 elif name == "vivek":
-	print "You are vivek"
-	print "The SPSE instructor"
+    print "You are vivek"
+    print "The SPSE instructor"
 else:
-	print "unknow user"
+    print "unknow user"
