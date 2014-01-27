@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
-dmesg = open("/var/log/dmesg", "r")
+dmesg = open("/var/log/messages", "r")
 for line in dmesg.readlines():
         if ("usb" or "USB") in line:
                 print line,

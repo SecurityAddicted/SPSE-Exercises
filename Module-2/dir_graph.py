@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 import os, sys, time
 
@@ -20,5 +20,5 @@ def print_level(level):
 start_dir = raw_input("Insert the start directory: ")
 try:
         print_graph(os.path.abspath(start_dir), 0)
-except:
-        print "wrong start directory"
+except Exception as e:
+        print e
